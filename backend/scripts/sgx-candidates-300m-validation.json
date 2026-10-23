@@ -1,0 +1,1775 @@
+{
+  "generatedAt": "2026-07-25T05:54:33.128Z",
+  "source": "sgx-candidates-300m.json",
+  "candidates": 179,
+  "kept": 172,
+  "dropped": 7,
+  "remapped": 0,
+  "searchConfirmed": 45,
+  "keptTickers": [
+    {
+      "ticker": "D05.SI",
+      "name": "DBS",
+      "yahooLongName": "DBS Group Holdings Ltd",
+      "sector": "Financial Services",
+      "mktCapSgdM": 205672.061,
+      "sourceTicker": "D05.SI",
+      "remapped": false,
+      "how": "direct"
+    },
+    {
+      "ticker": "O39.SI",
+      "name": "OCBC Bank",
+      "yahooLongName": "Oversea-Chinese Banking Corporation Limited",
+      "sector": "Financial Services",
+      "mktCapSgdM": 129216.223,
+      "sourceTicker": "O39.SI",
+      "remapped": false,
+      "how": "search-confirmed"
+    },
+    {
+      "ticker": "Z74.SI",
+      "name": "Singtel",
+      "yahooLongName": "Singapore Telecommunications Limited",
+      "sector": "Communication Services",
+      "mktCapSgdM": 71859.583,
+      "sourceTicker": "Z74.SI",
+      "remapped": false,
+      "how": "search-confirmed"
+    },
+    {
+      "ticker": "Z77.SI",
+      "name": "Singtel 10",
+      "yahooLongName": "Singapore Telecommunications Limited",
+      "sector": "Communication Services",
+      "mktCapSgdM": 71859.583,
+      "sourceTicker": "Z77.SI",
+      "remapped": false,
+      "how": "search-confirmed"
+    },
+    {
+      "ticker": "U11.SI",
+      "name": "UOB",
+      "yahooLongName": "United Overseas Bank Limited",
+      "sector": "Financial Services",
+      "mktCapSgdM": 71846.731,
+      "sourceTicker": "U11.SI",
+      "remapped": false,
+      "how": "search-confirmed"
+    },
+    {
+      "ticker": "S63.SI",
+      "name": "ST Engineering",
+      "yahooLongName": "Singapore Technologies Engineering Ltd",
+      "sector": "Industrials",
+      "mktCapSgdM": 33381.913,
+      "sourceTicker": "S63.SI",
+      "remapped": false,
+      "how": "direct"
+    },
+    {
+      "ticker": "S68.SI",
+      "name": "SGX",
+      "yahooLongName": "Singapore Exchange Limited",
+      "sector": "Financial Services",
+      "mktCapSgdM": 25497.225,
+      "sourceTicker": "S68.SI",
+      "remapped": false,
+      "how": "search-confirmed"
+    },
+    {
+      "ticker": "F34.SI",
+      "name": "Wilmar Intl",
+      "yahooLongName": "Wilmar International Limited",
+      "sector": "Consumer Defensive",
+      "mktCapSgdM": 24347.305,
+      "sourceTicker": "F34.SI",
+      "remapped": false,
+      "how": "search-confirmed"
+    },
+    {
+      "ticker": "C6L.SI",
+      "name": "SIA",
+      "yahooLongName": "Singapore Airlines Limited",
+      "sector": "Industrials",
+      "mktCapSgdM": 23978.229,
+      "sourceTicker": "C6L.SI",
+      "remapped": false,
+      "how": "search-confirmed"
+    },
+    {
+      "ticker": "Q0F.SI",
+      "name": "IHH",
+      "yahooLongName": "IHH Healthcare Berhad",
+      "sector": "Healthcare",
+      "mktCapSgdM": 23926.738,
+      "sourceTicker": "Q0F.SI",
+      "remapped": false,
+      "how": "direct"
+    },
+    {
+      "ticker": "BN4.SI",
+      "name": "Keppel",
+      "yahooLongName": "Keppel Ltd.",
+      "sector": "Industrials",
+      "mktCapSgdM": 20652.799,
+      "sourceTicker": "BN4.SI",
+      "remapped": false,
+      "how": "direct"
+    },
+    {
+      "ticker": "C38U.SI",
+      "name": "CapLand IntCom T",
+      "yahooLongName": "CapitaLand Integrated Commercial Trust",
+      "sector": "Real Estate",
+      "mktCapSgdM": 19305.383,
+      "sourceTicker": "C38U.SI",
+      "remapped": false,
+      "how": "search-confirmed"
+    },
+    {
+      "ticker": "G07.SI",
+      "name": "Great Eastern",
+      "yahooLongName": "Great Eastern Holdings Limited",
+      "sector": "Financial Services",
+      "mktCapSgdM": 18487.843,
+      "sourceTicker": "G07.SI",
+      "remapped": false,
+      "how": "direct"
+    },
+    {
+      "ticker": "BS6.SI",
+      "name": "YZJ Shipbldg SGD",
+      "yahooLongName": "Yangzijiang Shipbuilding (Holdings) Ltd.",
+      "sector": "Industrials",
+      "mktCapSgdM": 14364.901,
+      "sourceTicker": "BS6.SI",
+      "remapped": false,
+      "how": "search-confirmed"
+    },
+    {
+      "ticker": "9CI.SI",
+      "name": "CapitaLandInvest",
+      "yahooLongName": "CapitaLand Investment Limited",
+      "sector": "Real Estate",
+      "mktCapSgdM": 12633.634,
+      "sourceTicker": "9CI.SI",
+      "remapped": false,
+      "how": "search-confirmed"
+    },
+    {
+      "ticker": "A17U.SI",
+      "name": "CapLand Ascendas REIT",
+      "yahooLongName": "CapitaLand Ascendas REIT",
+      "sector": "Real Estate",
+      "mktCapSgdM": 12388.132,
+      "sourceTicker": "A17U.SI",
+      "remapped": false,
+      "how": "search-confirmed"
+    },
+    {
+      "ticker": "Y92.SI",
+      "name": "ThaiBev",
+      "yahooLongName": "Thai Beverage Public Company Limited",
+      "sector": "Consumer Defensive",
+      "mktCapSgdM": 11057.942,
+      "sourceTicker": "Y92.SI",
+      "remapped": false,
+      "how": "search-confirmed"
+    },
+    {
+      "ticker": "C07.SI",
+      "name": "Jardine C&C",
+      "yahooLongName": "Jardine Cycle & Carriage Limited",
+      "sector": "Industrials",
+      "mktCapSgdM": 10734.618,
+      "sourceTicker": "C07.SI",
+      "remapped": false,
+      "how": "direct"
+    },
+    {
+      "ticker": "U96.SI",
+      "name": "Sembcorp Ind",
+      "yahooLongName": "Sembcorp Industries Ltd",
+      "sector": "Utilities",
+      "mktCapSgdM": 9755.443,
+      "sourceTicker": "U96.SI",
+      "remapped": false,
+      "how": "direct"
+    },
+    {
+      "ticker": "U14.SI",
+      "name": "UOL",
+      "yahooLongName": "UOL Group Limited",
+      "sector": "Real Estate",
+      "mktCapSgdM": 8195.042,
+      "sourceTicker": "U14.SI",
+      "remapped": false,
+      "how": "direct"
+    },
+    {
+      "ticker": "G13.SI",
+      "name": "Genting Sing",
+      "yahooLongName": "Genting Singapore Limited",
+      "sector": "Consumer Cyclical",
+      "mktCapSgdM": 7615.486,
+      "sourceTicker": "G13.SI",
+      "remapped": false,
+      "how": "direct"
+    },
+    {
+      "ticker": "N2IU.SI",
+      "name": "Mapletree PanAsia Com Tr",
+      "yahooLongName": "Mapletree Pan Asia Commercial Trust",
+      "sector": "Real Estate",
+      "mktCapSgdM": 7028.212,
+      "sourceTicker": "N2IU.SI",
+      "remapped": false,
+      "how": "search-confirmed"
+    },
+    {
+      "ticker": "C09.SI",
+      "name": "CityDev",
+      "yahooLongName": "City Developments Limited",
+      "sector": "Real Estate",
+      "mktCapSgdM": 6959.599,
+      "sourceTicker": "C09.SI",
+      "remapped": false,
+      "how": "search-confirmed"
+    },
+    {
+      "ticker": "S58.SI",
+      "name": "SATS",
+      "yahooLongName": "SATS Ltd.",
+      "sector": "Industrials",
+      "mktCapSgdM": 6822.649,
+      "sourceTicker": "S58.SI",
+      "remapped": false,
+      "how": "direct"
+    },
+    {
+      "ticker": "5E2.SI",
+      "name": "Seatrium Ltd",
+      "yahooLongName": "Seatrium Ltd",
+      "sector": "Energy",
+      "mktCapSgdM": 6777.479,
+      "sourceTicker": "5E2.SI",
+      "remapped": false,
+      "how": "direct"
+    },
+    {
+      "ticker": "M44U.SI",
+      "name": "Mapletree Log Tr",
+      "yahooLongName": "Mapletree Logistics Trust",
+      "sector": "Real Estate",
+      "mktCapSgdM": 6195.075,
+      "sourceTicker": "M44U.SI",
+      "remapped": false,
+      "how": "search-confirmed"
+    },
+    {
+      "ticker": "AJBU.SI",
+      "name": "Keppel DC Reit",
+      "yahooLongName": "Keppel DC REIT",
+      "sector": "Real Estate",
+      "mktCapSgdM": 5675.123,
+      "sourceTicker": "AJBU.SI",
+      "remapped": false,
+      "how": "direct"
+    },
+    {
+      "ticker": "ME8U.SI",
+      "name": "Mapletree Ind Tr",
+      "yahooLongName": "Mapletree Industrial Trust",
+      "sector": "Real Estate",
+      "mktCapSgdM": 5481.607,
+      "sourceTicker": "ME8U.SI",
+      "remapped": false,
+      "how": "search-confirmed"
+    },
+    {
+      "ticker": "EB5.SI",
+      "name": "First Resources",
+      "yahooLongName": "First Resources Limited",
+      "sector": "Consumer Defensive",
+      "mktCapSgdM": 5356.221,
+      "sourceTicker": "EB5.SI",
+      "remapped": false,
+      "how": "direct"
+    },
+    {
+      "ticker": "EMI.SI",
+      "name": "Emperador Inc.",
+      "yahooLongName": "Emperador Inc.",
+      "sector": "Consumer Defensive",
+      "mktCapSgdM": 5098.615,
+      "sourceTicker": "EMI.SI",
+      "remapped": false,
+      "how": "direct"
+    },
+    {
+      "ticker": "8A8.SI",
+      "name": "CMS",
+      "yahooLongName": "CMS",
+      "sector": "Healthcare",
+      "mktCapSgdM": 5089.931,
+      "sourceTicker": "8A8.SI",
+      "remapped": false,
+      "how": "direct"
+    },
+    {
+      "ticker": "OV8.SI",
+      "name": "Sheng Siong",
+      "yahooLongName": "Sheng Siong Group Ltd",
+      "sector": "Consumer Defensive",
+      "mktCapSgdM": 4961.672,
+      "sourceTicker": "OV8.SI",
+      "remapped": false,
+      "how": "direct"
+    },
+    {
+      "ticker": "V03.SI",
+      "name": "Venture",
+      "yahooLongName": "Venture Corporation Limited",
+      "sector": "Technology",
+      "mktCapSgdM": 4709.739,
+      "sourceTicker": "V03.SI",
+      "remapped": false,
+      "how": "direct"
+    },
+    {
+      "ticker": "U06.SI",
+      "name": "SingaporeLandGrp",
+      "yahooLongName": "Singapore Land Group Limited",
+      "sector": "Real Estate",
+      "mktCapSgdM": 4599.491,
+      "sourceTicker": "U06.SI",
+      "remapped": false,
+      "how": "direct"
+    },
+    {
+      "ticker": "J69U.SI",
+      "name": "Frasers Cpt Tr",
+      "yahooLongName": "Frasers Centrepoint Trust",
+      "sector": "Real Estate",
+      "mktCapSgdM": 4585.104,
+      "sourceTicker": "J69U.SI",
+      "remapped": false,
+      "how": "search-confirmed"
+    },
+    {
+      "ticker": "VC2.SI",
+      "name": "Olam Group",
+      "yahooLongName": "Olam Group Limited",
+      "sector": "Consumer Defensive",
+      "mktCapSgdM": 4525.379,
+      "sourceTicker": "VC2.SI",
+      "remapped": false,
+      "how": "direct"
+    },
+    {
+      "ticker": "T82U.SI",
+      "name": "Suntec Reit",
+      "yahooLongName": "Suntec Real Estate Investment Trust",
+      "sector": "Real Estate",
+      "mktCapSgdM": 4462.866,
+      "sourceTicker": "T82U.SI",
+      "remapped": false,
+      "how": "direct"
+    },
+    {
+      "ticker": "K71U.SI",
+      "name": "Keppel Reit",
+      "yahooLongName": "Keppel REIT",
+      "sector": "Real Estate",
+      "mktCapSgdM": 4371.262,
+      "sourceTicker": "K71U.SI",
+      "remapped": false,
+      "how": "direct"
+    },
+    {
+      "ticker": "U10.SI",
+      "name": "UOB Kay Hian",
+      "yahooLongName": "UOB-Kay Hian Holdings Limited",
+      "sector": "Financial Services",
+      "mktCapSgdM": 4212.326,
+      "sourceTicker": "U10.SI",
+      "remapped": false,
+      "how": "direct"
+    },
+    {
+      "ticker": "TQ5.SI",
+      "name": "Frasers Property",
+      "yahooLongName": "Frasers Property Limited",
+      "sector": "Real Estate",
+      "mktCapSgdM": 4161.604,
+      "sourceTicker": "TQ5.SI",
+      "remapped": false,
+      "how": "direct"
+    },
+    {
+      "ticker": "CJLU.SI",
+      "name": "NetLink NBN Tr",
+      "yahooLongName": "NetLink NBN Trust",
+      "sector": "Communication Services",
+      "mktCapSgdM": 3819.032,
+      "sourceTicker": "CJLU.SI",
+      "remapped": false,
+      "how": "direct"
+    },
+    {
+      "ticker": "H02.SI",
+      "name": "Haw Par",
+      "yahooLongName": "Haw Par Corporation Limited",
+      "sector": "Healthcare",
+      "mktCapSgdM": 3710.131,
+      "sourceTicker": "H02.SI",
+      "remapped": false,
+      "how": "direct"
+    },
+    {
+      "ticker": "S59.SI",
+      "name": "SIA Engineering",
+      "yahooLongName": "SIA Engineering Company Limited",
+      "sector": "Industrials",
+      "mktCapSgdM": 3701.681,
+      "sourceTicker": "S59.SI",
+      "remapped": false,
+      "how": "direct"
+    },
+    {
+      "ticker": "BUOU.SI",
+      "name": "Frasers L&C Tr",
+      "yahooLongName": "Frasers Logistics & Commercial Trust",
+      "sector": "Real Estate",
+      "mktCapSgdM": 3668.217,
+      "sourceTicker": "BUOU.SI",
+      "remapped": false,
+      "how": "direct"
+    },
+    {
+      "ticker": "AVP.SI",
+      "name": "AvePoint",
+      "yahooLongName": "AvePoint, Inc.",
+      "sector": "Technology",
+      "mktCapSgdM": 3593.093,
+      "sourceTicker": "AVP.SI",
+      "remapped": false,
+      "how": "direct"
+    },
+    {
+      "ticker": "E5H.SI",
+      "name": "Golden Agri-Res",
+      "yahooLongName": "Golden Agri-Resources Ltd",
+      "sector": "Consumer Defensive",
+      "mktCapSgdM": 3487.46,
+      "sourceTicker": "E5H.SI",
+      "remapped": false,
+      "how": "direct"
+    },
+    {
+      "ticker": "HMN.SI",
+      "name": "CapLand Ascott T",
+      "yahooLongName": "CapitaLand Ascott Trust",
+      "sector": "Real Estate",
+      "mktCapSgdM": 3461.721,
+      "sourceTicker": "HMN.SI",
+      "remapped": false,
+      "how": "search-confirmed"
+    },
+    {
+      "ticker": "A7RU.SI",
+      "name": "Kep Infra Tr",
+      "yahooLongName": "Keppel Infrastructure Trust",
+      "sector": "Basic Materials",
+      "mktCapSgdM": 3225.764,
+      "sourceTicker": "A7RU.SI",
+      "remapped": false,
+      "how": "search-confirmed"
+    },
+    {
+      "ticker": "P8Z.SI",
+      "name": "Bumitama Agri",
+      "yahooLongName": "Bumitama Agri Ltd.",
+      "sector": "Consumer Defensive",
+      "mktCapSgdM": 3138.801,
+      "sourceTicker": "P8Z.SI",
+      "remapped": false,
+      "how": "direct"
+    },
+    {
+      "ticker": "AWX.SI",
+      "name": "AEM SGD",
+      "yahooLongName": "AEM Holdings Ltd.",
+      "sector": "Technology",
+      "mktCapSgdM": 2930.253,
+      "sourceTicker": "AWX.SI",
+      "remapped": false,
+      "how": "direct"
+    },
+    {
+      "ticker": "AIY.SI",
+      "name": "IFAST",
+      "yahooLongName": "iFAST Corporation Ltd.",
+      "sector": "Technology",
+      "mktCapSgdM": 2907.281,
+      "sourceTicker": "AIY.SI",
+      "remapped": false,
+      "how": "direct"
+    },
+    {
+      "ticker": "C52.SI",
+      "name": "ComfortDelGro",
+      "yahooLongName": "ComfortDelGro Corporation Limited",
+      "sector": "Industrials",
+      "mktCapSgdM": 2904.368,
+      "sourceTicker": "C52.SI",
+      "remapped": false,
+      "how": "direct"
+    },
+    {
+      "ticker": "C2PU.SI",
+      "name": "ParkwayLife Reit",
+      "yahooLongName": "Parkway Life Real Estate Investment Trust",
+      "sector": "Real Estate",
+      "mktCapSgdM": 2701.984,
+      "sourceTicker": "C2PU.SI",
+      "remapped": false,
+      "how": "search-confirmed"
+    },
+    {
+      "ticker": "F17.SI",
+      "name": "GuocoLand",
+      "yahooLongName": "GuocoLand Limited",
+      "sector": "Real Estate",
+      "mktCapSgdM": 2515.57,
+      "sourceTicker": "F17.SI",
+      "remapped": false,
+      "how": "direct"
+    },
+    {
+      "ticker": "H15.SI",
+      "name": "HPL",
+      "yahooLongName": "Hotel Properties Limited",
+      "sector": "Consumer Cyclical",
+      "mktCapSgdM": 2441.565,
+      "sourceTicker": "H15.SI",
+      "remapped": false,
+      "how": "search-confirmed"
+    },
+    {
+      "ticker": "558.SI",
+      "name": "UMS",
+      "yahooLongName": "UMS Integration Limited",
+      "sector": "Technology",
+      "mktCapSgdM": 2263.133,
+      "sourceTicker": "558.SI",
+      "remapped": false,
+      "how": "direct"
+    },
+    {
+      "ticker": "P7VU.SI",
+      "name": "HPH Trust SGD",
+      "yahooLongName": "Hutchison Port Holdings Trust",
+      "sector": "Industrials",
+      "mktCapSgdM": 2108.98,
+      "sourceTicker": "P7VU.SI",
+      "remapped": false,
+      "how": "search-confirmed"
+    },
+    {
+      "ticker": "H22.SI",
+      "name": "Hong Leong Asia",
+      "yahooLongName": "Hong Leong Asia Ltd.",
+      "sector": "Consumer Cyclical",
+      "mktCapSgdM": 2091.13,
+      "sourceTicker": "H22.SI",
+      "remapped": false,
+      "how": "direct"
+    },
+    {
+      "ticker": "TS0U.SI",
+      "name": "OUEREIT",
+      "yahooLongName": "OUE Real Estate Investment Trust",
+      "sector": "Real Estate",
+      "mktCapSgdM": 2018.449,
+      "sourceTicker": "TS0U.SI",
+      "remapped": false,
+      "how": "search-confirmed"
+    },
+    {
+      "ticker": "8YZ.SI",
+      "name": "YZJ Maritime",
+      "yahooLongName": "YZJ Maritime",
+      "sector": "Financial Services",
+      "mktCapSgdM": 1988.78,
+      "sourceTicker": "8YZ.SI",
+      "remapped": false,
+      "how": "direct"
+    },
+    {
+      "ticker": "HKB.SI",
+      "name": "AMTD IDEA OV",
+      "yahooLongName": "AMTD IDEA Group",
+      "sector": "Financial Services",
+      "mktCapSgdM": 1987.416,
+      "sourceTicker": "HKB.SI",
+      "remapped": false,
+      "how": "direct"
+    },
+    {
+      "ticker": "8C8U.SI",
+      "name": "Cent Accom REIT",
+      "yahooLongName": "Centurion Accommodation REIT",
+      "sector": "Real Estate",
+      "mktCapSgdM": 1966.46,
+      "sourceTicker": "8C8U.SI",
+      "remapped": false,
+      "how": "search-confirmed"
+    },
+    {
+      "ticker": "JYEU.SI",
+      "name": "Lendlease Reit",
+      "yahooLongName": "Lendlease Global Commercial REIT",
+      "sector": "Real Estate",
+      "mktCapSgdM": 1896.407,
+      "sourceTicker": "JYEU.SI",
+      "remapped": false,
+      "how": "direct"
+    },
+    {
+      "ticker": "9A4U.SI",
+      "name": "ESR REIT",
+      "yahooLongName": "ESR REIT",
+      "sector": "Real Estate",
+      "mktCapSgdM": 1851.581,
+      "sourceTicker": "9A4U.SI",
+      "remapped": false,
+      "how": "direct"
+    },
+    {
+      "ticker": "CC3.SI",
+      "name": "StarHub",
+      "yahooLongName": "StarHub Ltd",
+      "sector": "Communication Services",
+      "mktCapSgdM": 1761.023,
+      "sourceTicker": "CC3.SI",
+      "remapped": false,
+      "how": "direct"
+    },
+    {
+      "ticker": "AGS.SI",
+      "name": "TheHourGlass",
+      "yahooLongName": "The Hour Glass Limited",
+      "sector": "Consumer Cyclical",
+      "mktCapSgdM": 1752.068,
+      "sourceTicker": "AGS.SI",
+      "remapped": false,
+      "how": "search-confirmed"
+    },
+    {
+      "ticker": "BSL.SI",
+      "name": "Raffles Medical",
+      "yahooLongName": "Raffles Medical Group Ltd",
+      "sector": "Healthcare",
+      "mktCapSgdM": 1748.181,
+      "sourceTicker": "BSL.SI",
+      "remapped": false,
+      "how": "direct"
+    },
+    {
+      "ticker": "BVA.SI",
+      "name": "Top Glove",
+      "yahooLongName": "Top Glove Corporation Bhd.",
+      "sector": "Healthcare",
+      "mktCapSgdM": 1637.186,
+      "sourceTicker": "BVA.SI",
+      "remapped": false,
+      "how": "direct"
+    },
+    {
+      "ticker": "CY6U.SI",
+      "name": "CapLand India T",
+      "yahooLongName": "CapitaLand India Trust",
+      "sector": "Real Estate",
+      "mktCapSgdM": 1561.262,
+      "sourceTicker": "CY6U.SI",
+      "remapped": false,
+      "how": "search-confirmed"
+    },
+    {
+      "ticker": "F03.SI",
+      "name": "Food Empire",
+      "yahooLongName": "Food Empire Holdings Limited",
+      "sector": "Consumer Defensive",
+      "mktCapSgdM": 1538.581,
+      "sourceTicker": "F03.SI",
+      "remapped": false,
+      "how": "direct"
+    },
+    {
+      "ticker": "G92.SI",
+      "name": "China Aviation",
+      "yahooLongName": "China Aviation Oil (Singapore) Corporation Ltd",
+      "sector": "Energy",
+      "mktCapSgdM": 1419.303,
+      "sourceTicker": "G92.SI",
+      "remapped": false,
+      "how": "direct"
+    },
+    {
+      "ticker": "A50.SI",
+      "name": "Thomson Medical",
+      "yahooLongName": "Thomson Medical Group Limited",
+      "sector": "Healthcare",
+      "mktCapSgdM": 1401.512,
+      "sourceTicker": "A50.SI",
+      "remapped": false,
+      "how": "direct"
+    },
+    {
+      "ticker": "OU8.SI",
+      "name": "Centurion",
+      "yahooLongName": "Centurion Corporation Limited",
+      "sector": "Consumer Cyclical",
+      "mktCapSgdM": 1387.285,
+      "sourceTicker": "OU8.SI",
+      "remapped": false,
+      "how": "direct"
+    },
+    {
+      "ticker": "O5RU.SI",
+      "name": "AIMS APAC Reit",
+      "yahooLongName": "AIMS APAC REIT",
+      "sector": "Real Estate",
+      "mktCapSgdM": 1375.57,
+      "sourceTicker": "O5RU.SI",
+      "remapped": false,
+      "how": "direct"
+    },
+    {
+      "ticker": "H13.SI",
+      "name": "Ho Bee Land",
+      "yahooLongName": "Ho Bee Land Limited",
+      "sector": "Real Estate",
+      "mktCapSgdM": 1347.953,
+      "sourceTicker": "H13.SI",
+      "remapped": false,
+      "how": "direct"
+    },
+    {
+      "ticker": "OYY.SI",
+      "name": "PropNex",
+      "yahooLongName": "PropNex Limited",
+      "sector": "Real Estate",
+      "mktCapSgdM": 1332,
+      "sourceTicker": "OYY.SI",
+      "remapped": false,
+      "how": "direct"
+    },
+    {
+      "ticker": "P15.SI",
+      "name": "Pacific Century",
+      "yahooLongName": "Pacific Century Regional Developments Limited",
+      "sector": "Financial Services",
+      "mktCapSgdM": 1310.041,
+      "sourceTicker": "P15.SI",
+      "remapped": false,
+      "how": "direct"
+    },
+    {
+      "ticker": "SEB.SI",
+      "name": "Stoneweg EUTrust SGD",
+      "yahooLongName": "Stoneweg Europe Stapled Trust",
+      "sector": "Real Estate",
+      "mktCapSgdM": 1297.26,
+      "sourceTicker": "SEB.SI",
+      "remapped": false,
+      "how": "search-confirmed"
+    },
+    {
+      "ticker": "AP4.SI",
+      "name": "Riverstone",
+      "yahooLongName": "Riverstone Holdings Limited",
+      "sector": "Healthcare",
+      "mktCapSgdM": 1282.075,
+      "sourceTicker": "AP4.SI",
+      "remapped": false,
+      "how": "direct"
+    },
+    {
+      "ticker": "P40U.SI",
+      "name": "StarhillGbl Reit",
+      "yahooLongName": "Starhill Global Real Estate Investment Trust",
+      "sector": "Real Estate",
+      "mktCapSgdM": 1276.557,
+      "sourceTicker": "P40U.SI",
+      "remapped": false,
+      "how": "search-confirmed"
+    },
+    {
+      "ticker": "B61.SI",
+      "name": "Bukit Sembawang",
+      "yahooLongName": "Bukit Sembawang Estates Limited",
+      "sector": "Real Estate",
+      "mktCapSgdM": 1271.255,
+      "sourceTicker": "B61.SI",
+      "remapped": false,
+      "how": "direct"
+    },
+    {
+      "ticker": "Z25.SI",
+      "name": "Yanlord Land",
+      "yahooLongName": "Yanlord Land Group Limited",
+      "sector": "Real Estate",
+      "mktCapSgdM": 1265.156,
+      "sourceTicker": "Z25.SI",
+      "remapped": false,
+      "how": "direct"
+    },
+    {
+      "ticker": "Q5T.SI",
+      "name": "Far East HTrust",
+      "yahooLongName": "Far East Hospitality Trust",
+      "sector": "Real Estate",
+      "mktCapSgdM": 1201.098,
+      "sourceTicker": "Q5T.SI",
+      "remapped": false,
+      "how": "direct"
+    },
+    {
+      "ticker": "W05.SI",
+      "name": "Wing Tai",
+      "yahooLongName": "Wing Tai Holdings Limited",
+      "sector": "Real Estate",
+      "mktCapSgdM": 1199.308,
+      "sourceTicker": "W05.SI",
+      "remapped": false,
+      "how": "direct"
+    },
+    {
+      "ticker": "E28.SI",
+      "name": "Frencken",
+      "yahooLongName": "Frencken Group Limited",
+      "sector": "Technology",
+      "mktCapSgdM": 1176.36,
+      "sourceTicker": "E28.SI",
+      "remapped": false,
+      "how": "direct"
+    },
+    {
+      "ticker": "AU8U.SI",
+      "name": "CapLand China T",
+      "yahooLongName": "CapitaLand China Trust",
+      "sector": "Real Estate",
+      "mktCapSgdM": 1159.719,
+      "sourceTicker": "AU8U.SI",
+      "remapped": false,
+      "how": "search-confirmed"
+    },
+    {
+      "ticker": "S61.SI",
+      "name": "SBS Transit",
+      "yahooLongName": "SBS Transit Ltd",
+      "sector": "Industrials",
+      "mktCapSgdM": 1155.466,
+      "sourceTicker": "S61.SI",
+      "remapped": false,
+      "how": "direct"
+    },
+    {
+      "ticker": "ADN.SI",
+      "name": "First Sponsor",
+      "yahooLongName": "First Sponsor Group Limited",
+      "sector": "Real Estate",
+      "mktCapSgdM": 1151.852,
+      "sourceTicker": "ADN.SI",
+      "remapped": false,
+      "how": "direct"
+    },
+    {
+      "ticker": "BEC.SI",
+      "name": "BRC Asia",
+      "yahooLongName": "BRC Asia Limited",
+      "sector": "Basic Materials",
+      "mktCapSgdM": 1144.04,
+      "sourceTicker": "BEC.SI",
+      "remapped": false,
+      "how": "direct"
+    },
+    {
+      "ticker": "UIBU.SI",
+      "name": "UIBREIT",
+      "yahooLongName": "UIBREIT",
+      "sector": "Real Estate",
+      "mktCapSgdM": 1140.504,
+      "sourceTicker": "UIBU.SI",
+      "remapped": false,
+      "how": "direct"
+    },
+    {
+      "ticker": "STG.SI",
+      "name": "Sri Trang Gloves",
+      "yahooLongName": "Sri Trang Gloves (Thailand) Public Company Limited",
+      "sector": "Basic Materials",
+      "mktCapSgdM": 1136.201,
+      "sourceTicker": "STG.SI",
+      "remapped": false,
+      "how": "direct"
+    },
+    {
+      "ticker": "S41.SI",
+      "name": "Hong Leong Fin",
+      "yahooLongName": "Hong Leong Finance Limited",
+      "sector": "Financial Services",
+      "mktCapSgdM": 1120.247,
+      "sourceTicker": "S41.SI",
+      "remapped": false,
+      "how": "direct"
+    },
+    {
+      "ticker": "P52.SI",
+      "name": "PanUnited",
+      "yahooLongName": "Pan-United Corporation Ltd",
+      "sector": "Basic Materials",
+      "mktCapSgdM": 1113.601,
+      "sourceTicker": "P52.SI",
+      "remapped": false,
+      "how": "search-confirmed"
+    },
+    {
+      "ticker": "NC2.SI",
+      "name": "Sri Trang Agro",
+      "yahooLongName": "Sri Trang Agro-Industry Public Company Limited",
+      "sector": "Basic Materials",
+      "mktCapSgdM": 1110.591,
+      "sourceTicker": "NC2.SI",
+      "remapped": false,
+      "how": "direct"
+    },
+    {
+      "ticker": "F9D.SI",
+      "name": "Boustead",
+      "yahooLongName": "Boustead Singapore Limited",
+      "sector": "Industrials",
+      "mktCapSgdM": 1075.062,
+      "sourceTicker": "F9D.SI",
+      "remapped": false,
+      "how": "direct"
+    },
+    {
+      "ticker": "EH5.SI",
+      "name": "UOA",
+      "yahooLongName": "United Overseas Australia Ltd",
+      "sector": "Real Estate",
+      "mktCapSgdM": 1032.35,
+      "sourceTicker": "EH5.SI",
+      "remapped": false,
+      "how": "search-confirmed"
+    },
+    {
+      "ticker": "PCT.SI",
+      "name": "PC Partner",
+      "yahooLongName": "PC Partner Group Limited",
+      "sector": "Technology",
+      "mktCapSgdM": 1031.771,
+      "sourceTicker": "PCT.SI",
+      "remapped": false,
+      "how": "direct"
+    },
+    {
+      "ticker": "RE4.SI",
+      "name": "Geo Energy Res",
+      "yahooLongName": "Geo Energy Resources Limited",
+      "sector": "Energy",
+      "mktCapSgdM": 988.773,
+      "sourceTicker": "RE4.SI",
+      "remapped": false,
+      "how": "direct"
+    },
+    {
+      "ticker": "J85.SI",
+      "name": "CDL HTrust",
+      "yahooLongName": "CDL Hospitality Trusts",
+      "sector": "Real Estate",
+      "mktCapSgdM": 986.584,
+      "sourceTicker": "J85.SI",
+      "remapped": false,
+      "how": "search-confirmed"
+    },
+    {
+      "ticker": "FHH.SI",
+      "name": "FoundationHealth",
+      "yahooLongName": "FoundationHealth",
+      "sector": "Healthcare",
+      "mktCapSgdM": 943.341,
+      "sourceTicker": "FHH.SI",
+      "remapped": false,
+      "how": "direct"
+    },
+    {
+      "ticker": "T6I.SI",
+      "name": "ValueMax",
+      "yahooLongName": "ValueMax Group Limited",
+      "sector": "Consumer Cyclical",
+      "mktCapSgdM": 890.135,
+      "sourceTicker": "T6I.SI",
+      "remapped": false,
+      "how": "direct"
+    },
+    {
+      "ticker": "CRPU.SI",
+      "name": "Sasseur Reit",
+      "yahooLongName": "Sasseur Real Estate Investment Trust",
+      "sector": "Real Estate",
+      "mktCapSgdM": 866.324,
+      "sourceTicker": "CRPU.SI",
+      "remapped": false,
+      "how": "direct"
+    },
+    {
+      "ticker": "544.SI",
+      "name": "CSE Global",
+      "yahooLongName": "CSE Global Limited",
+      "sector": "Technology",
+      "mktCapSgdM": 860.506,
+      "sourceTicker": "544.SI",
+      "remapped": false,
+      "how": "direct"
+    },
+    {
+      "ticker": "BWM.SI",
+      "name": "Zheneng Jinjiang",
+      "yahooLongName": "Zheneng Jinjiang Environment Holding Company Limited",
+      "sector": "Utilities",
+      "mktCapSgdM": 860.472,
+      "sourceTicker": "BWM.SI",
+      "remapped": false,
+      "how": "direct"
+    },
+    {
+      "ticker": "S08.SI",
+      "name": "SingPost",
+      "yahooLongName": "Singapore Post Limited",
+      "sector": "Industrials",
+      "mktCapSgdM": 810.872,
+      "sourceTicker": "S08.SI",
+      "remapped": false,
+      "how": "direct"
+    },
+    {
+      "ticker": "P9D.SI",
+      "name": "Civmec",
+      "yahooLongName": "Civmec Limited",
+      "sector": "Industrials",
+      "mktCapSgdM": 798.167,
+      "sourceTicker": "P9D.SI",
+      "remapped": false,
+      "how": "direct"
+    },
+    {
+      "ticker": "S20.SI",
+      "name": "Straits Trading",
+      "yahooLongName": "The Straits Trading Company Limited",
+      "sector": "Basic Materials",
+      "mktCapSgdM": 780.565,
+      "sourceTicker": "S20.SI",
+      "remapped": false,
+      "how": "direct"
+    },
+    {
+      "ticker": "LJ3.SI",
+      "name": "OUE",
+      "yahooLongName": "OUE Limited",
+      "sector": "Real Estate",
+      "mktCapSgdM": 758.6,
+      "sourceTicker": "LJ3.SI",
+      "remapped": false,
+      "how": "direct"
+    },
+    {
+      "ticker": "MZH.SI",
+      "name": "Nanofilm",
+      "yahooLongName": "Nanofilm Technologies International Limited",
+      "sector": "Technology",
+      "mktCapSgdM": 750.233,
+      "sourceTicker": "MZH.SI",
+      "remapped": false,
+      "how": "direct"
+    },
+    {
+      "ticker": "H30.SI",
+      "name": "Hong Fok",
+      "yahooLongName": "Hong Fok Corporation Limited",
+      "sector": "Real Estate",
+      "mktCapSgdM": 735.961,
+      "sourceTicker": "H30.SI",
+      "remapped": false,
+      "how": "direct"
+    },
+    {
+      "ticker": "CHZ.SI",
+      "name": "HRnetGroup",
+      "yahooLongName": "HRnetGroup Limited",
+      "sector": "Industrials",
+      "mktCapSgdM": 733.706,
+      "sourceTicker": "CHZ.SI",
+      "remapped": false,
+      "how": "direct"
+    },
+    {
+      "ticker": "YF8.SI",
+      "name": "YZJ Fin Hldg",
+      "yahooLongName": "Yangzijiang Financial Holding Ltd.",
+      "sector": "Financial Services",
+      "mktCapSgdM": 730.895,
+      "sourceTicker": "YF8.SI",
+      "remapped": false,
+      "how": "search-confirmed"
+    },
+    {
+      "ticker": "H07.SI",
+      "name": "Stamford Land",
+      "yahooLongName": "Stamford Land Corporation Ltd",
+      "sector": "Consumer Cyclical",
+      "mktCapSgdM": 726.969,
+      "sourceTicker": "H07.SI",
+      "remapped": false,
+      "how": "direct"
+    },
+    {
+      "ticker": "5UF.SI",
+      "name": "Aspial Lifestyle",
+      "yahooLongName": "Aspial Lifestyle Limited",
+      "sector": "Consumer Cyclical",
+      "mktCapSgdM": 720.03,
+      "sourceTicker": "5UF.SI",
+      "remapped": false,
+      "how": "direct"
+    },
+    {
+      "ticker": "HQU.SI",
+      "name": "Oiltek",
+      "yahooLongName": "Oiltek International Limited",
+      "sector": "Industrials",
+      "mktCapSgdM": 707.85,
+      "sourceTicker": "HQU.SI",
+      "remapped": false,
+      "how": "direct"
+    },
+    {
+      "ticker": "5WJ.SI",
+      "name": "MoneyMax Fin",
+      "yahooLongName": "MoneyMax Financial Services Ltd.",
+      "sector": "Consumer Cyclical",
+      "mktCapSgdM": 707.02,
+      "sourceTicker": "5WJ.SI",
+      "remapped": false,
+      "how": "direct"
+    },
+    {
+      "ticker": "8AZ.SI",
+      "name": "Aztech Gbl",
+      "yahooLongName": "Aztech Global Ltd.",
+      "sector": "Technology",
+      "mktCapSgdM": 667.601,
+      "sourceTicker": "8AZ.SI",
+      "remapped": false,
+      "how": "search-confirmed"
+    },
+    {
+      "ticker": "QES.SI",
+      "name": "ChinaSunsine",
+      "yahooLongName": "China Sunsine Chemical Holdings Ltd.",
+      "sector": "Basic Materials",
+      "mktCapSgdM": 648.3,
+      "sourceTicker": "QES.SI",
+      "remapped": false,
+      "how": "search-confirmed"
+    },
+    {
+      "ticker": "U9E.SI",
+      "name": "China Everbright",
+      "yahooLongName": "China Everbright Water Limited",
+      "sector": "Utilities",
+      "mktCapSgdM": 643.697,
+      "sourceTicker": "U9E.SI",
+      "remapped": false,
+      "how": "direct"
+    },
+    {
+      "ticker": "WJP.SI",
+      "name": "VICOM Ltd",
+      "yahooLongName": "VICOM Ltd",
+      "sector": "Consumer Cyclical",
+      "mktCapSgdM": 634.677,
+      "sourceTicker": "WJP.SI",
+      "remapped": false,
+      "how": "direct"
+    },
+    {
+      "ticker": "C41.SI",
+      "name": "Cortina",
+      "yahooLongName": "Cortina Holdings Limited",
+      "sector": "Consumer Cyclical",
+      "mktCapSgdM": 620.919,
+      "sourceTicker": "C41.SI",
+      "remapped": false,
+      "how": "direct"
+    },
+    {
+      "ticker": "E3B.SI",
+      "name": "Wee Hur",
+      "yahooLongName": "Wee Hur Holdings Ltd.",
+      "sector": "Industrials",
+      "mktCapSgdM": 606.702,
+      "sourceTicker": "E3B.SI",
+      "remapped": false,
+      "how": "direct"
+    },
+    {
+      "ticker": "M1GU.SI",
+      "name": "Alpha Integrated REIT",
+      "yahooLongName": "Alpha Integrated Real Estate Investment Trust",
+      "sector": "Real Estate",
+      "mktCapSgdM": 579.403,
+      "sourceTicker": "M1GU.SI",
+      "remapped": false,
+      "how": "direct"
+    },
+    {
+      "ticker": "Q01.SI",
+      "name": "QAF",
+      "yahooLongName": "QAF Limited",
+      "sector": "Consumer Defensive",
+      "mktCapSgdM": 566.639,
+      "sourceTicker": "Q01.SI",
+      "remapped": false,
+      "how": "direct"
+    },
+    {
+      "ticker": "O10.SI",
+      "name": "Far East Orchard",
+      "yahooLongName": "Far East Orchard Limited",
+      "sector": "Real Estate",
+      "mktCapSgdM": 546.099,
+      "sourceTicker": "O10.SI",
+      "remapped": false,
+      "how": "direct"
+    },
+    {
+      "ticker": "A31.SI",
+      "name": "Addvalue Tech",
+      "yahooLongName": "Addvalue Technologies Ltd",
+      "sector": "Technology",
+      "mktCapSgdM": 530.406,
+      "sourceTicker": "A31.SI",
+      "remapped": false,
+      "how": "direct"
+    },
+    {
+      "ticker": "H18.SI",
+      "name": "Hotel Grand",
+      "yahooLongName": "Hotel Grand Central Limited",
+      "sector": "Consumer Cyclical",
+      "mktCapSgdM": 528.69,
+      "sourceTicker": "H18.SI",
+      "remapped": false,
+      "how": "direct"
+    },
+    {
+      "ticker": "P34.SI",
+      "name": "Delfi",
+      "yahooLongName": "Delfi Limited",
+      "sector": "Consumer Defensive",
+      "mktCapSgdM": 528.651,
+      "sourceTicker": "P34.SI",
+      "remapped": false,
+      "how": "direct"
+    },
+    {
+      "ticker": "U13.SI",
+      "name": "UOI",
+      "yahooLongName": "United Overseas Insurance Limited",
+      "sector": "Financial Services",
+      "mktCapSgdM": 527.156,
+      "sourceTicker": "U13.SI",
+      "remapped": false,
+      "how": "search-confirmed"
+    },
+    {
+      "ticker": "S56.SI",
+      "name": "SamuderaShipping",
+      "yahooLongName": "Samudera Shipping Line Ltd",
+      "sector": "Industrials",
+      "mktCapSgdM": 513.826,
+      "sourceTicker": "S56.SI",
+      "remapped": false,
+      "how": "search-confirmed"
+    },
+    {
+      "ticker": "QC7.SI",
+      "name": "Q&M Dental",
+      "yahooLongName": "Q & M Dental Group (Singapore) Limited",
+      "sector": "Healthcare",
+      "mktCapSgdM": 511.758,
+      "sourceTicker": "QC7.SI",
+      "remapped": false,
+      "how": "direct"
+    },
+    {
+      "ticker": "5LY.SI",
+      "name": "MarcoPolo Marine",
+      "yahooLongName": "Marco Polo Marine Ltd.",
+      "sector": "Industrials",
+      "mktCapSgdM": 504.925,
+      "sourceTicker": "5LY.SI",
+      "remapped": false,
+      "how": "search-confirmed"
+    },
+    {
+      "ticker": "F83.SI",
+      "name": "COSCO SHP SG",
+      "yahooLongName": "COSCO SHIPPING International (Singapore) Co., Ltd.",
+      "sector": "Industrials",
+      "mktCapSgdM": 501.591,
+      "sourceTicker": "F83.SI",
+      "remapped": false,
+      "how": "search-confirmed"
+    },
+    {
+      "ticker": "B58.SI",
+      "name": "Banyan Tree",
+      "yahooLongName": "Banyan Tree Holdings Limited",
+      "sector": "Consumer Cyclical",
+      "mktCapSgdM": 494.558,
+      "sourceTicker": "B58.SI",
+      "remapped": false,
+      "how": "direct"
+    },
+    {
+      "ticker": "1D0.SI",
+      "name": "Kimly",
+      "yahooLongName": "Kimly Limited",
+      "sector": "Consumer Cyclical",
+      "mktCapSgdM": 491.732,
+      "sourceTicker": "1D0.SI",
+      "remapped": false,
+      "how": "direct"
+    },
+    {
+      "ticker": "5JS.SI",
+      "name": "Indofood Agri",
+      "yahooLongName": "Indofood Agri Resources Ltd.",
+      "sector": "Consumer Defensive",
+      "mktCapSgdM": 488.567,
+      "sourceTicker": "5JS.SI",
+      "remapped": false,
+      "how": "direct"
+    },
+    {
+      "ticker": "TSH.SI",
+      "name": "TSH Resources",
+      "yahooLongName": "TSH Resources Berhad",
+      "sector": "Consumer Defensive",
+      "mktCapSgdM": 486.546,
+      "sourceTicker": "TSH.SI",
+      "remapped": false,
+      "how": "direct"
+    },
+    {
+      "ticker": "5TP.SI",
+      "name": "CNMC Goldmine",
+      "yahooLongName": "CNMC Goldmine Holdings Limited",
+      "sector": "Basic Materials",
+      "mktCapSgdM": 486.347,
+      "sourceTicker": "5TP.SI",
+      "remapped": false,
+      "how": "direct"
+    },
+    {
+      "ticker": "AW9U.SI",
+      "name": "First Reit",
+      "yahooLongName": "First Real Estate Investment Trust",
+      "sector": "Real Estate",
+      "mktCapSgdM": 476.828,
+      "sourceTicker": "AW9U.SI",
+      "remapped": false,
+      "how": "direct"
+    },
+    {
+      "ticker": "STC.SI",
+      "name": "Comba",
+      "yahooLongName": "Comba Telecom Systems Holdings Limited",
+      "sector": "Technology",
+      "mktCapSgdM": 472.284,
+      "sourceTicker": "STC.SI",
+      "remapped": false,
+      "how": "direct"
+    },
+    {
+      "ticker": "SEG.SI",
+      "name": "CONCORD NE",
+      "yahooLongName": "CONCORD NE",
+      "sector": "Utilities",
+      "mktCapSgdM": 451.047,
+      "sourceTicker": "SEG.SI",
+      "remapped": false,
+      "how": "direct"
+    },
+    {
+      "ticker": "1MZ.SI",
+      "name": "NamCheong",
+      "yahooLongName": "Nam Cheong Limited",
+      "sector": "Industrials",
+      "mktCapSgdM": 449.243,
+      "sourceTicker": "1MZ.SI",
+      "remapped": false,
+      "how": "search-confirmed"
+    },
+    {
+      "ticker": "BN2.SI",
+      "name": "Valuetronics",
+      "yahooLongName": "Valuetronics Holdings Limited",
+      "sector": "Technology",
+      "mktCapSgdM": 442.003,
+      "sourceTicker": "BN2.SI",
+      "remapped": false,
+      "how": "direct"
+    },
+    {
+      "ticker": "BHK.SI",
+      "name": "SIIC Environment",
+      "yahooLongName": "SIIC Environment Holdings Ltd.",
+      "sector": "Utilities",
+      "mktCapSgdM": 432.712,
+      "sourceTicker": "BHK.SI",
+      "remapped": false,
+      "how": "direct"
+    },
+    {
+      "ticker": "ZQM.SI",
+      "name": "SoilbuildConstr",
+      "yahooLongName": "SoilbuildConstr",
+      "sector": "Industrials",
+      "mktCapSgdM": 430.212,
+      "sourceTicker": "ZQM.SI",
+      "remapped": false,
+      "how": "direct"
+    },
+    {
+      "ticker": "MV4.SI",
+      "name": "Mewah Intl",
+      "yahooLongName": "Mewah International Inc.",
+      "sector": "Consumer Defensive",
+      "mktCapSgdM": 420.187,
+      "sourceTicker": "MV4.SI",
+      "remapped": false,
+      "how": "search-confirmed"
+    },
+    {
+      "ticker": "42C.SI",
+      "name": "IX Biopharma",
+      "yahooLongName": "iX Biopharma Ltd.",
+      "sector": "Healthcare",
+      "mktCapSgdM": 419.066,
+      "sourceTicker": "42C.SI",
+      "remapped": false,
+      "how": "direct"
+    },
+    {
+      "ticker": "5GD.SI",
+      "name": "Sunpower",
+      "yahooLongName": "Sunpower Group Ltd.",
+      "sector": "Utilities",
+      "mktCapSgdM": 418.941,
+      "sourceTicker": "5GD.SI",
+      "remapped": false,
+      "how": "direct"
+    },
+    {
+      "ticker": "5CF.SI",
+      "name": "OKP",
+      "yahooLongName": "OKP Holdings Limited",
+      "sector": "Industrials",
+      "mktCapSgdM": 413.631,
+      "sourceTicker": "5CF.SI",
+      "remapped": false,
+      "how": "direct"
+    },
+    {
+      "ticker": "ZKX.SI",
+      "name": "Ever Glory",
+      "yahooLongName": "Ever Glory United Holdings Limited",
+      "sector": "Industrials",
+      "mktCapSgdM": 403.528,
+      "sourceTicker": "ZKX.SI",
+      "remapped": false,
+      "how": "direct"
+    },
+    {
+      "ticker": "HLS.SI",
+      "name": "Helens",
+      "yahooLongName": "Helens",
+      "sector": "Consumer Cyclical",
+      "mktCapSgdM": 403.105,
+      "sourceTicker": "HLS.SI",
+      "remapped": false,
+      "how": "direct"
+    },
+    {
+      "ticker": "BDX.SI",
+      "name": "GSH",
+      "yahooLongName": "GSH Corporation Limited",
+      "sector": "Industrials",
+      "mktCapSgdM": 394.56,
+      "sourceTicker": "BDX.SI",
+      "remapped": false,
+      "how": "direct"
+    },
+    {
+      "ticker": "5HV.SI",
+      "name": "Koh Eco",
+      "yahooLongName": "Koh Brothers Eco Engineering Limited",
+      "sector": "Industrials",
+      "mktCapSgdM": 388.914,
+      "sourceTicker": "5HV.SI",
+      "remapped": false,
+      "how": "direct"
+    },
+    {
+      "ticker": "T24.SI",
+      "name": "Tuan Sing",
+      "yahooLongName": "Tuan Sing Holdings Limited",
+      "sector": "Real Estate",
+      "mktCapSgdM": 387.228,
+      "sourceTicker": "T24.SI",
+      "remapped": false,
+      "how": "direct"
+    },
+    {
+      "ticker": "M01.SI",
+      "name": "Metro",
+      "yahooLongName": "Metro Holdings Limited",
+      "sector": "Consumer Cyclical",
+      "mktCapSgdM": 385.037,
+      "sourceTicker": "M01.SI",
+      "remapped": false,
+      "how": "direct"
+    },
+    {
+      "ticker": "5DD.SI",
+      "name": "Micro-Mechanics",
+      "yahooLongName": "Micro-Mechanics (Holdings) Ltd.",
+      "sector": "Technology",
+      "mktCapSgdM": 383.038,
+      "sourceTicker": "5DD.SI",
+      "remapped": false,
+      "how": "direct"
+    },
+    {
+      "ticker": "B28.SI",
+      "name": "Bonvests",
+      "yahooLongName": "Bonvests Holdings Limited",
+      "sector": "Consumer Cyclical",
+      "mktCapSgdM": 381.441,
+      "sourceTicker": "B28.SI",
+      "remapped": false,
+      "how": "direct"
+    },
+    {
+      "ticker": "S35.SI",
+      "name": "Sing Inv & Fin",
+      "yahooLongName": "Sing Investments & Finance Limited",
+      "sector": "Financial Services",
+      "mktCapSgdM": 378.302,
+      "sourceTicker": "S35.SI",
+      "remapped": false,
+      "how": "search-confirmed"
+    },
+    {
+      "ticker": "Y03.SI",
+      "name": "Yeo Hiap Seng",
+      "yahooLongName": "Yeo Hiap Seng Limited",
+      "sector": "Consumer Defensive",
+      "mktCapSgdM": 358.846,
+      "sourceTicker": "Y03.SI",
+      "remapped": false,
+      "how": "direct"
+    },
+    {
+      "ticker": "KUO.SI",
+      "name": "Intl Cement",
+      "yahooLongName": "International Cement Group Ltd.",
+      "sector": "Basic Materials",
+      "mktCapSgdM": 355.553,
+      "sourceTicker": "KUO.SI",
+      "remapped": false,
+      "how": "search-confirmed"
+    },
+    {
+      "ticker": "DHLU.SI",
+      "name": "Daiwa Hse Log Tr",
+      "yahooLongName": "Daiwa House Logistics Trust",
+      "sector": "Real Estate",
+      "mktCapSgdM": 340.063,
+      "sourceTicker": "DHLU.SI",
+      "remapped": false,
+      "how": "search-confirmed"
+    },
+    {
+      "ticker": "A04.SI",
+      "name": "ASL Marine",
+      "yahooLongName": "ASL Marine Holdings Ltd.",
+      "sector": "Industrials",
+      "mktCapSgdM": 339.581,
+      "sourceTicker": "A04.SI",
+      "remapped": false,
+      "how": "direct"
+    },
+    {
+      "ticker": "JCO.SI",
+      "name": "JustCo",
+      "yahooLongName": "JustCo",
+      "sector": "Real Estate",
+      "mktCapSgdM": 332.68,
+      "sourceTicker": "JCO.SI",
+      "remapped": false,
+      "how": "direct"
+    },
+    {
+      "ticker": "N02.SI",
+      "name": "NSL",
+      "yahooLongName": "NSL Ltd",
+      "sector": "Basic Materials",
+      "mktCapSgdM": 332.467,
+      "sourceTicker": "N02.SI",
+      "remapped": false,
+      "how": "direct"
+    },
+    {
+      "ticker": "BTM.SI",
+      "name": "Penguin Intl",
+      "yahooLongName": "Penguin International Limited",
+      "sector": "Industrials",
+      "mktCapSgdM": 330.255,
+      "sourceTicker": "BTM.SI",
+      "remapped": false,
+      "how": "search-confirmed"
+    },
+    {
+      "ticker": "AWZ.SI",
+      "name": "Multi-Chem",
+      "yahooLongName": "Multi-Chem Limited",
+      "sector": "Technology",
+      "mktCapSgdM": 328.848,
+      "sourceTicker": "AWZ.SI",
+      "remapped": false,
+      "how": "direct"
+    },
+    {
+      "ticker": "A30.SI",
+      "name": "Aspial Corp",
+      "yahooLongName": "Aspial Corporation Limited",
+      "sector": "Consumer Cyclical",
+      "mktCapSgdM": 325.684,
+      "sourceTicker": "A30.SI",
+      "remapped": false,
+      "how": "direct"
+    },
+    {
+      "ticker": "5IG.SI",
+      "name": "Gallant Venture",
+      "yahooLongName": "Gallant Venture Ltd.",
+      "sector": "Utilities",
+      "mktCapSgdM": 322.326,
+      "sourceTicker": "5IG.SI",
+      "remapped": false,
+      "how": "direct"
+    },
+    {
+      "ticker": "5UX.SI",
+      "name": "Oxley",
+      "yahooLongName": "Oxley Holdings Limited",
+      "sector": "Real Estate",
+      "mktCapSgdM": 320.053,
+      "sourceTicker": "5UX.SI",
+      "remapped": false,
+      "how": "direct"
+    },
+    {
+      "ticker": "BTE.SI",
+      "name": "Bund Center",
+      "yahooLongName": "Bund Center Investment Ltd",
+      "sector": "Real Estate",
+      "mktCapSgdM": 314.889,
+      "sourceTicker": "BTE.SI",
+      "remapped": false,
+      "how": "direct"
+    },
+    {
+      "ticker": "BBW.SI",
+      "name": "Azeus",
+      "yahooLongName": "Azeus Systems Holdings Ltd.",
+      "sector": "Technology",
+      "mktCapSgdM": 306.3,
+      "sourceTicker": "BBW.SI",
+      "remapped": false,
+      "how": "direct"
+    },
+    {
+      "ticker": "5JK.SI",
+      "name": "Hiap Hoe",
+      "yahooLongName": "Hiap Hoe Limited",
+      "sector": "Consumer Cyclical",
+      "mktCapSgdM": 305.862,
+      "sourceTicker": "5JK.SI",
+      "remapped": false,
+      "how": "direct"
+    }
+  ],
+  "drops": [
+    {
+      "ticker": "O6Z.SI",
+      "sgxCode": "O6Z",
+      "name": "Lonza",
+      "reason": "quoteType=MUTUALFUND; name mismatch (wrong ticker mapping) → no valid SGD .SI EQUITY from yahooFinance.search() on SGX name"
+    },
+    {
+      "ticker": "N33.SI",
+      "sgxCode": "N33",
+      "name": "Nomura Yen1k",
+      "reason": "quoteType=MUTUALFUND → no valid SGD .SI EQUITY from yahooFinance.search() on SGX name"
+    },
+    {
+      "ticker": "F99.SI",
+      "sgxCode": "F99",
+      "name": "F & N",
+      "reason": "name mismatch (wrong ticker mapping) → no valid SGD .SI EQUITY from yahooFinance.search() on SGX name"
+    },
+    {
+      "ticker": "S2D.SI",
+      "sgxCode": "S2D",
+      "name": "Tosei",
+      "reason": "quoteType=MUTUALFUND; name mismatch (wrong ticker mapping) → no valid SGD .SI EQUITY from yahooFinance.search() on SGX name"
+    },
+    {
+      "ticker": "5VJ.SI",
+      "sgxCode": "5VJ",
+      "name": "Halcyon Agri",
+      "reason": "quoteType=MUTUALFUND → no valid SGD .SI EQUITY from yahooFinance.search() on SGX name"
+    },
+    {
+      "ticker": "NPW.SI",
+      "sgxCode": "NPW",
+      "name": "MSC",
+      "reason": "name mismatch (wrong ticker mapping) → no valid SGD .SI EQUITY from yahooFinance.search() on SGX name"
+    },
+    {
+      "ticker": "S3N.SI",
+      "sgxCode": "S3N",
+      "name": "GRC",
+      "reason": "name mismatch (wrong ticker mapping) → no valid SGD .SI EQUITY from yahooFinance.search() on SGX name"
+    }
+  ]
+}

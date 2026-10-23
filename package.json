@@ -1,0 +1,27 @@
+{
+  "name": "sgx-screener",
+  "version": "1.0.0",
+  "private": true,
+  "description": "Stock screener for SGX-listed equities: a Filter DSL compiled to parameterized SQL, with natural-language screening.",
+  "workspaces": [
+    "packages/*",
+    "backend",
+    "frontend"
+  ],
+  "scripts": {
+    "dev:api": "npm run dev -w backend",
+    "dev:web": "npm run dev -w frontend",
+    "build": "npm run typecheck -w backend && npm run build -w frontend",
+    "test": "npm test -w backend && npm test -w frontend",
+    "typecheck": "npm run typecheck -w backend && npm run typecheck -w frontend"
+  },
+  "engines": {
+    "node": ">=20"
+  },
+  "devDependencies": {
+    "vitest": "4.1.10",
+    "jsdom": "^29.1.1",
+    "typescript": "^6.0.3",
+    "@types/node": "^24.13.2"
+  }
+}

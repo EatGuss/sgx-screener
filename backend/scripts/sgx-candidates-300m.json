@@ -1,0 +1,1255 @@
+[
+  {
+    "ticker": "D05.SI",
+    "sgxCode": "D05",
+    "name": "DBS",
+    "sector": "Financial Services",
+    "mktCapSgdM": 205672.061
+  },
+  {
+    "ticker": "O39.SI",
+    "sgxCode": "O39",
+    "name": "OCBC Bank",
+    "sector": "Financial Services",
+    "mktCapSgdM": 129216.223
+  },
+  {
+    "ticker": "Z74.SI",
+    "sgxCode": "Z74",
+    "name": "Singtel",
+    "sector": "Communication Services",
+    "mktCapSgdM": 71859.583
+  },
+  {
+    "ticker": "Z77.SI",
+    "sgxCode": "Z77",
+    "name": "Singtel 10",
+    "sector": "Communication Services",
+    "mktCapSgdM": 71859.583
+  },
+  {
+    "ticker": "U11.SI",
+    "sgxCode": "U11",
+    "name": "UOB",
+    "sector": "Financial Services",
+    "mktCapSgdM": 71846.731
+  },
+  {
+    "ticker": "O6Z.SI",
+    "sgxCode": "O6Z",
+    "name": "Lonza",
+    "sector": "Healthcare",
+    "mktCapSgdM": 64965.172
+  },
+  {
+    "ticker": "N33.SI",
+    "sgxCode": "N33",
+    "name": "Nomura Yen1k",
+    "sector": "Financial Services",
+    "mktCapSgdM": 38034.515
+  },
+  {
+    "ticker": "S63.SI",
+    "sgxCode": "S63",
+    "name": "ST Engineering",
+    "sector": "Industrials",
+    "mktCapSgdM": 33381.913
+  },
+  {
+    "ticker": "S68.SI",
+    "sgxCode": "S68",
+    "name": "SGX",
+    "sector": "Financial Services",
+    "mktCapSgdM": 25497.225
+  },
+  {
+    "ticker": "F34.SI",
+    "sgxCode": "F34",
+    "name": "Wilmar Intl",
+    "sector": "Consumer Defensive",
+    "mktCapSgdM": 24347.305
+  },
+  {
+    "ticker": "C6L.SI",
+    "sgxCode": "C6L",
+    "name": "SIA",
+    "sector": "Industrials",
+    "mktCapSgdM": 23978.229
+  },
+  {
+    "ticker": "Q0F.SI",
+    "sgxCode": "Q0F",
+    "name": "IHH",
+    "sector": "Healthcare",
+    "mktCapSgdM": 23926.738
+  },
+  {
+    "ticker": "BN4.SI",
+    "sgxCode": "BN4",
+    "name": "Keppel",
+    "sector": "Industrials",
+    "mktCapSgdM": 20652.799
+  },
+  {
+    "ticker": "C38U.SI",
+    "sgxCode": "C38U",
+    "name": "CapLand IntCom T",
+    "sector": "Real Estate",
+    "mktCapSgdM": 19305.383
+  },
+  {
+    "ticker": "G07.SI",
+    "sgxCode": "G07",
+    "name": "Great Eastern",
+    "sector": "Financial Services",
+    "mktCapSgdM": 18487.843
+  },
+  {
+    "ticker": "BS6.SI",
+    "sgxCode": "BS6",
+    "name": "YZJ Shipbldg SGD",
+    "sector": "Industrials",
+    "mktCapSgdM": 14364.901
+  },
+  {
+    "ticker": "9CI.SI",
+    "sgxCode": "9CI",
+    "name": "CapitaLandInvest",
+    "sector": "Real Estate",
+    "mktCapSgdM": 12633.634
+  },
+  {
+    "ticker": "A17U.SI",
+    "sgxCode": "A17U",
+    "name": "CapLand Ascendas REIT",
+    "sector": "Real Estate",
+    "mktCapSgdM": 12388.132
+  },
+  {
+    "ticker": "Y92.SI",
+    "sgxCode": "Y92",
+    "name": "ThaiBev",
+    "sector": "Consumer Defensive",
+    "mktCapSgdM": 11057.942
+  },
+  {
+    "ticker": "C07.SI",
+    "sgxCode": "C07",
+    "name": "Jardine C&C",
+    "sector": "Industrials",
+    "mktCapSgdM": 10734.618
+  },
+  {
+    "ticker": "U96.SI",
+    "sgxCode": "U96",
+    "name": "Sembcorp Ind",
+    "sector": "Utilities",
+    "mktCapSgdM": 9755.443
+  },
+  {
+    "ticker": "U14.SI",
+    "sgxCode": "U14",
+    "name": "UOL",
+    "sector": "Real Estate",
+    "mktCapSgdM": 8195.042
+  },
+  {
+    "ticker": "G13.SI",
+    "sgxCode": "G13",
+    "name": "Genting Sing",
+    "sector": "Consumer Cyclical",
+    "mktCapSgdM": 7615.486
+  },
+  {
+    "ticker": "N2IU.SI",
+    "sgxCode": "N2IU",
+    "name": "Mapletree PanAsia Com Tr",
+    "sector": "Real Estate",
+    "mktCapSgdM": 7028.212
+  },
+  {
+    "ticker": "C09.SI",
+    "sgxCode": "C09",
+    "name": "CityDev",
+    "sector": "Real Estate",
+    "mktCapSgdM": 6959.599
+  },
+  {
+    "ticker": "S58.SI",
+    "sgxCode": "S58",
+    "name": "SATS",
+    "sector": "Industrials",
+    "mktCapSgdM": 6822.649
+  },
+  {
+    "ticker": "5E2.SI",
+    "sgxCode": "5E2",
+    "name": "Seatrium Ltd",
+    "sector": "Energy",
+    "mktCapSgdM": 6777.479
+  },
+  {
+    "ticker": "M44U.SI",
+    "sgxCode": "M44U",
+    "name": "Mapletree Log Tr",
+    "sector": "Real Estate",
+    "mktCapSgdM": 6195.075
+  },
+  {
+    "ticker": "AJBU.SI",
+    "sgxCode": "AJBU",
+    "name": "Keppel DC Reit",
+    "sector": "Real Estate",
+    "mktCapSgdM": 5675.123
+  },
+  {
+    "ticker": "ME8U.SI",
+    "sgxCode": "ME8U",
+    "name": "Mapletree Ind Tr",
+    "sector": "Real Estate",
+    "mktCapSgdM": 5481.607
+  },
+  {
+    "ticker": "EB5.SI",
+    "sgxCode": "EB5",
+    "name": "First Resources",
+    "sector": "Consumer Defensive",
+    "mktCapSgdM": 5356.221
+  },
+  {
+    "ticker": "EMI.SI",
+    "sgxCode": "EMI",
+    "name": "Emperador Inc.",
+    "sector": "Consumer Defensive",
+    "mktCapSgdM": 5098.615
+  },
+  {
+    "ticker": "8A8.SI",
+    "sgxCode": "8A8",
+    "name": "CMS",
+    "sector": "Healthcare",
+    "mktCapSgdM": 5089.931
+  },
+  {
+    "ticker": "OV8.SI",
+    "sgxCode": "OV8",
+    "name": "Sheng Siong",
+    "sector": "Consumer Defensive",
+    "mktCapSgdM": 4961.672
+  },
+  {
+    "ticker": "V03.SI",
+    "sgxCode": "V03",
+    "name": "Venture",
+    "sector": "Technology",
+    "mktCapSgdM": 4709.739
+  },
+  {
+    "ticker": "U06.SI",
+    "sgxCode": "U06",
+    "name": "SingaporeLandGrp",
+    "sector": "Real Estate",
+    "mktCapSgdM": 4599.491
+  },
+  {
+    "ticker": "J69U.SI",
+    "sgxCode": "J69U",
+    "name": "Frasers Cpt Tr",
+    "sector": "Real Estate",
+    "mktCapSgdM": 4585.104
+  },
+  {
+    "ticker": "VC2.SI",
+    "sgxCode": "VC2",
+    "name": "Olam Group",
+    "sector": "Consumer Defensive",
+    "mktCapSgdM": 4525.379
+  },
+  {
+    "ticker": "T82U.SI",
+    "sgxCode": "T82U",
+    "name": "Suntec Reit",
+    "sector": "Real Estate",
+    "mktCapSgdM": 4462.866
+  },
+  {
+    "ticker": "K71U.SI",
+    "sgxCode": "K71U",
+    "name": "Keppel Reit",
+    "sector": "Real Estate",
+    "mktCapSgdM": 4371.262
+  },
+  {
+    "ticker": "U10.SI",
+    "sgxCode": "U10",
+    "name": "UOB Kay Hian",
+    "sector": "Financial Services",
+    "mktCapSgdM": 4212.326
+  },
+  {
+    "ticker": "TQ5.SI",
+    "sgxCode": "TQ5",
+    "name": "Frasers Property",
+    "sector": "Real Estate",
+    "mktCapSgdM": 4161.604
+  },
+  {
+    "ticker": "CJLU.SI",
+    "sgxCode": "CJLU",
+    "name": "NetLink NBN Tr",
+    "sector": "Communication Services",
+    "mktCapSgdM": 3819.032
+  },
+  {
+    "ticker": "H02.SI",
+    "sgxCode": "H02",
+    "name": "Haw Par",
+    "sector": "Healthcare",
+    "mktCapSgdM": 3710.131
+  },
+  {
+    "ticker": "S59.SI",
+    "sgxCode": "S59",
+    "name": "SIA Engineering",
+    "sector": "Industrials",
+    "mktCapSgdM": 3701.681
+  },
+  {
+    "ticker": "BUOU.SI",
+    "sgxCode": "BUOU",
+    "name": "Frasers L&C Tr",
+    "sector": "Real Estate",
+    "mktCapSgdM": 3668.217
+  },
+  {
+    "ticker": "AVP.SI",
+    "sgxCode": "AVP",
+    "name": "AvePoint",
+    "sector": "Technology",
+    "mktCapSgdM": 3593.093
+  },
+  {
+    "ticker": "E5H.SI",
+    "sgxCode": "E5H",
+    "name": "Golden Agri-Res",
+    "sector": "Consumer Defensive",
+    "mktCapSgdM": 3487.46
+  },
+  {
+    "ticker": "HMN.SI",
+    "sgxCode": "HMN",
+    "name": "CapLand Ascott T",
+    "sector": "Real Estate",
+    "mktCapSgdM": 3461.721
+  },
+  {
+    "ticker": "A7RU.SI",
+    "sgxCode": "A7RU",
+    "name": "Kep Infra Tr",
+    "sector": "Basic Materials",
+    "mktCapSgdM": 3225.764
+  },
+  {
+    "ticker": "P8Z.SI",
+    "sgxCode": "P8Z",
+    "name": "Bumitama Agri",
+    "sector": "Consumer Defensive",
+    "mktCapSgdM": 3138.801
+  },
+  {
+    "ticker": "AWX.SI",
+    "sgxCode": "AWX",
+    "name": "AEM SGD",
+    "sector": "Technology",
+    "mktCapSgdM": 2930.253
+  },
+  {
+    "ticker": "AIY.SI",
+    "sgxCode": "AIY",
+    "name": "IFAST",
+    "sector": "Technology",
+    "mktCapSgdM": 2907.281
+  },
+  {
+    "ticker": "C52.SI",
+    "sgxCode": "C52",
+    "name": "ComfortDelGro",
+    "sector": "Industrials",
+    "mktCapSgdM": 2904.368
+  },
+  {
+    "ticker": "C2PU.SI",
+    "sgxCode": "C2PU",
+    "name": "ParkwayLife Reit",
+    "sector": "Real Estate",
+    "mktCapSgdM": 2701.984
+  },
+  {
+    "ticker": "F17.SI",
+    "sgxCode": "F17",
+    "name": "GuocoLand",
+    "sector": "Real Estate",
+    "mktCapSgdM": 2515.57
+  },
+  {
+    "ticker": "H15.SI",
+    "sgxCode": "H15",
+    "name": "HPL",
+    "sector": "Consumer Cyclical",
+    "mktCapSgdM": 2441.565
+  },
+  {
+    "ticker": "558.SI",
+    "sgxCode": "558",
+    "name": "UMS",
+    "sector": "Technology",
+    "mktCapSgdM": 2263.133
+  },
+  {
+    "ticker": "P7VU.SI",
+    "sgxCode": "P7VU",
+    "name": "HPH Trust SGD",
+    "sector": "Industrials",
+    "mktCapSgdM": 2108.98
+  },
+  {
+    "ticker": "H22.SI",
+    "sgxCode": "H22",
+    "name": "Hong Leong Asia",
+    "sector": "Consumer Cyclical",
+    "mktCapSgdM": 2091.13
+  },
+  {
+    "ticker": "F99.SI",
+    "sgxCode": "F99",
+    "name": "F & N",
+    "sector": "Consumer Defensive",
+    "mktCapSgdM": 2081.065
+  },
+  {
+    "ticker": "TS0U.SI",
+    "sgxCode": "TS0U",
+    "name": "OUEREIT",
+    "sector": "Real Estate",
+    "mktCapSgdM": 2018.449
+  },
+  {
+    "ticker": "8YZ.SI",
+    "sgxCode": "8YZ",
+    "name": "YZJ Maritime",
+    "sector": "Financial Services",
+    "mktCapSgdM": 1988.78
+  },
+  {
+    "ticker": "HKB.SI",
+    "sgxCode": "HKB",
+    "name": "AMTD IDEA OV",
+    "sector": "Financial Services",
+    "mktCapSgdM": 1987.416
+  },
+  {
+    "ticker": "8C8U.SI",
+    "sgxCode": "8C8U",
+    "name": "Cent Accom REIT",
+    "sector": "Real Estate",
+    "mktCapSgdM": 1966.46
+  },
+  {
+    "ticker": "JYEU.SI",
+    "sgxCode": "JYEU",
+    "name": "Lendlease Reit",
+    "sector": "Real Estate",
+    "mktCapSgdM": 1896.407
+  },
+  {
+    "ticker": "9A4U.SI",
+    "sgxCode": "9A4U",
+    "name": "ESR REIT",
+    "sector": "Real Estate",
+    "mktCapSgdM": 1851.581
+  },
+  {
+    "ticker": "CC3.SI",
+    "sgxCode": "CC3",
+    "name": "StarHub",
+    "sector": "Communication Services",
+    "mktCapSgdM": 1761.023
+  },
+  {
+    "ticker": "AGS.SI",
+    "sgxCode": "AGS",
+    "name": "TheHourGlass",
+    "sector": "Consumer Cyclical",
+    "mktCapSgdM": 1752.068
+  },
+  {
+    "ticker": "BSL.SI",
+    "sgxCode": "BSL",
+    "name": "Raffles Medical",
+    "sector": "Healthcare",
+    "mktCapSgdM": 1748.181
+  },
+  {
+    "ticker": "BVA.SI",
+    "sgxCode": "BVA",
+    "name": "Top Glove",
+    "sector": "Healthcare",
+    "mktCapSgdM": 1637.186
+  },
+  {
+    "ticker": "CY6U.SI",
+    "sgxCode": "CY6U",
+    "name": "CapLand India T",
+    "sector": "Real Estate",
+    "mktCapSgdM": 1561.262
+  },
+  {
+    "ticker": "F03.SI",
+    "sgxCode": "F03",
+    "name": "Food Empire",
+    "sector": "Consumer Defensive",
+    "mktCapSgdM": 1538.581
+  },
+  {
+    "ticker": "S2D.SI",
+    "sgxCode": "S2D",
+    "name": "Tosei",
+    "sector": "Real Estate",
+    "mktCapSgdM": 1447.031
+  },
+  {
+    "ticker": "G92.SI",
+    "sgxCode": "G92",
+    "name": "China Aviation",
+    "sector": "Energy",
+    "mktCapSgdM": 1419.303
+  },
+  {
+    "ticker": "A50.SI",
+    "sgxCode": "A50",
+    "name": "Thomson Medical",
+    "sector": "Healthcare",
+    "mktCapSgdM": 1401.512
+  },
+  {
+    "ticker": "OU8.SI",
+    "sgxCode": "OU8",
+    "name": "Centurion",
+    "sector": "Consumer Cyclical",
+    "mktCapSgdM": 1387.285
+  },
+  {
+    "ticker": "O5RU.SI",
+    "sgxCode": "O5RU",
+    "name": "AIMS APAC Reit",
+    "sector": "Real Estate",
+    "mktCapSgdM": 1375.57
+  },
+  {
+    "ticker": "H13.SI",
+    "sgxCode": "H13",
+    "name": "Ho Bee Land",
+    "sector": "Real Estate",
+    "mktCapSgdM": 1347.953
+  },
+  {
+    "ticker": "OYY.SI",
+    "sgxCode": "OYY",
+    "name": "PropNex",
+    "sector": "Real Estate",
+    "mktCapSgdM": 1332.0
+  },
+  {
+    "ticker": "P15.SI",
+    "sgxCode": "P15",
+    "name": "Pacific Century",
+    "sector": "Financial Services",
+    "mktCapSgdM": 1310.041
+  },
+  {
+    "ticker": "SEB.SI",
+    "sgxCode": "SEB",
+    "name": "Stoneweg EUTrust SGD",
+    "sector": "Real Estate",
+    "mktCapSgdM": 1297.26
+  },
+  {
+    "ticker": "AP4.SI",
+    "sgxCode": "AP4",
+    "name": "Riverstone",
+    "sector": "Healthcare",
+    "mktCapSgdM": 1282.075
+  },
+  {
+    "ticker": "P40U.SI",
+    "sgxCode": "P40U",
+    "name": "StarhillGbl Reit",
+    "sector": "Real Estate",
+    "mktCapSgdM": 1276.557
+  },
+  {
+    "ticker": "B61.SI",
+    "sgxCode": "B61",
+    "name": "Bukit Sembawang",
+    "sector": "Real Estate",
+    "mktCapSgdM": 1271.255
+  },
+  {
+    "ticker": "Z25.SI",
+    "sgxCode": "Z25",
+    "name": "Yanlord Land",
+    "sector": "Real Estate",
+    "mktCapSgdM": 1265.156
+  },
+  {
+    "ticker": "Q5T.SI",
+    "sgxCode": "Q5T",
+    "name": "Far East HTrust",
+    "sector": "Real Estate",
+    "mktCapSgdM": 1201.098
+  },
+  {
+    "ticker": "W05.SI",
+    "sgxCode": "W05",
+    "name": "Wing Tai",
+    "sector": "Real Estate",
+    "mktCapSgdM": 1199.308
+  },
+  {
+    "ticker": "E28.SI",
+    "sgxCode": "E28",
+    "name": "Frencken",
+    "sector": "Technology",
+    "mktCapSgdM": 1176.36
+  },
+  {
+    "ticker": "AU8U.SI",
+    "sgxCode": "AU8U",
+    "name": "CapLand China T",
+    "sector": "Real Estate",
+    "mktCapSgdM": 1159.719
+  },
+  {
+    "ticker": "S61.SI",
+    "sgxCode": "S61",
+    "name": "SBS Transit",
+    "sector": "Industrials",
+    "mktCapSgdM": 1155.466
+  },
+  {
+    "ticker": "ADN.SI",
+    "sgxCode": "ADN",
+    "name": "First Sponsor",
+    "sector": "Real Estate",
+    "mktCapSgdM": 1151.852
+  },
+  {
+    "ticker": "BEC.SI",
+    "sgxCode": "BEC",
+    "name": "BRC Asia",
+    "sector": "Basic Materials",
+    "mktCapSgdM": 1144.04
+  },
+  {
+    "ticker": "UIBU.SI",
+    "sgxCode": "UIBU",
+    "name": "UIBREIT",
+    "sector": "Real Estate",
+    "mktCapSgdM": 1140.504
+  },
+  {
+    "ticker": "STG.SI",
+    "sgxCode": "STG",
+    "name": "Sri Trang Gloves",
+    "sector": "Basic Materials",
+    "mktCapSgdM": 1136.201
+  },
+  {
+    "ticker": "S41.SI",
+    "sgxCode": "S41",
+    "name": "Hong Leong Fin",
+    "sector": "Financial Services",
+    "mktCapSgdM": 1120.247
+  },
+  {
+    "ticker": "P52.SI",
+    "sgxCode": "P52",
+    "name": "PanUnited",
+    "sector": "Basic Materials",
+    "mktCapSgdM": 1113.601
+  },
+  {
+    "ticker": "NC2.SI",
+    "sgxCode": "NC2",
+    "name": "Sri Trang Agro",
+    "sector": "Basic Materials",
+    "mktCapSgdM": 1110.591
+  },
+  {
+    "ticker": "F9D.SI",
+    "sgxCode": "F9D",
+    "name": "Boustead",
+    "sector": "Industrials",
+    "mktCapSgdM": 1075.062
+  },
+  {
+    "ticker": "EH5.SI",
+    "sgxCode": "EH5",
+    "name": "UOA",
+    "sector": "Real Estate",
+    "mktCapSgdM": 1032.35
+  },
+  {
+    "ticker": "PCT.SI",
+    "sgxCode": "PCT",
+    "name": "PC Partner",
+    "sector": "Technology",
+    "mktCapSgdM": 1031.771
+  },
+  {
+    "ticker": "RE4.SI",
+    "sgxCode": "RE4",
+    "name": "Geo Energy Res",
+    "sector": "Energy",
+    "mktCapSgdM": 988.773
+  },
+  {
+    "ticker": "J85.SI",
+    "sgxCode": "J85",
+    "name": "CDL HTrust",
+    "sector": "Real Estate",
+    "mktCapSgdM": 986.584
+  },
+  {
+    "ticker": "FHH.SI",
+    "sgxCode": "FHH",
+    "name": "FoundationHealth",
+    "sector": "Healthcare",
+    "mktCapSgdM": 943.341
+  },
+  {
+    "ticker": "T6I.SI",
+    "sgxCode": "T6I",
+    "name": "ValueMax",
+    "sector": "Consumer Cyclical",
+    "mktCapSgdM": 890.135
+  },
+  {
+    "ticker": "CRPU.SI",
+    "sgxCode": "CRPU",
+    "name": "Sasseur Reit",
+    "sector": "Real Estate",
+    "mktCapSgdM": 866.324
+  },
+  {
+    "ticker": "544.SI",
+    "sgxCode": "544",
+    "name": "CSE Global",
+    "sector": "Technology",
+    "mktCapSgdM": 860.506
+  },
+  {
+    "ticker": "BWM.SI",
+    "sgxCode": "BWM",
+    "name": "Zheneng Jinjiang",
+    "sector": "Utilities",
+    "mktCapSgdM": 860.472
+  },
+  {
+    "ticker": "S08.SI",
+    "sgxCode": "S08",
+    "name": "SingPost",
+    "sector": "Industrials",
+    "mktCapSgdM": 810.872
+  },
+  {
+    "ticker": "P9D.SI",
+    "sgxCode": "P9D",
+    "name": "Civmec",
+    "sector": "Industrials",
+    "mktCapSgdM": 798.167
+  },
+  {
+    "ticker": "S20.SI",
+    "sgxCode": "S20",
+    "name": "Straits Trading",
+    "sector": "Basic Materials",
+    "mktCapSgdM": 780.565
+  },
+  {
+    "ticker": "LJ3.SI",
+    "sgxCode": "LJ3",
+    "name": "OUE",
+    "sector": "Real Estate",
+    "mktCapSgdM": 758.6
+  },
+  {
+    "ticker": "MZH.SI",
+    "sgxCode": "MZH",
+    "name": "Nanofilm",
+    "sector": "Technology",
+    "mktCapSgdM": 750.233
+  },
+  {
+    "ticker": "H30.SI",
+    "sgxCode": "H30",
+    "name": "Hong Fok",
+    "sector": "Real Estate",
+    "mktCapSgdM": 735.961
+  },
+  {
+    "ticker": "CHZ.SI",
+    "sgxCode": "CHZ",
+    "name": "HRnetGroup",
+    "sector": "Industrials",
+    "mktCapSgdM": 733.706
+  },
+  {
+    "ticker": "YF8.SI",
+    "sgxCode": "YF8",
+    "name": "YZJ Fin Hldg",
+    "sector": "Financial Services",
+    "mktCapSgdM": 730.895
+  },
+  {
+    "ticker": "H07.SI",
+    "sgxCode": "H07",
+    "name": "Stamford Land",
+    "sector": "Consumer Cyclical",
+    "mktCapSgdM": 726.969
+  },
+  {
+    "ticker": "5UF.SI",
+    "sgxCode": "5UF",
+    "name": "Aspial Lifestyle",
+    "sector": "Consumer Cyclical",
+    "mktCapSgdM": 720.03
+  },
+  {
+    "ticker": "HQU.SI",
+    "sgxCode": "HQU",
+    "name": "Oiltek",
+    "sector": "Industrials",
+    "mktCapSgdM": 707.85
+  },
+  {
+    "ticker": "5WJ.SI",
+    "sgxCode": "5WJ",
+    "name": "MoneyMax Fin",
+    "sector": "Consumer Cyclical",
+    "mktCapSgdM": 707.02
+  },
+  {
+    "ticker": "8AZ.SI",
+    "sgxCode": "8AZ",
+    "name": "Aztech Gbl",
+    "sector": "Technology",
+    "mktCapSgdM": 667.601
+  },
+  {
+    "ticker": "5VJ.SI",
+    "sgxCode": "5VJ",
+    "name": "Halcyon Agri",
+    "sector": "Basic Materials",
+    "mktCapSgdM": 653.955
+  },
+  {
+    "ticker": "QES.SI",
+    "sgxCode": "QES",
+    "name": "ChinaSunsine",
+    "sector": "Basic Materials",
+    "mktCapSgdM": 648.3
+  },
+  {
+    "ticker": "U9E.SI",
+    "sgxCode": "U9E",
+    "name": "China Everbright",
+    "sector": "Utilities",
+    "mktCapSgdM": 643.697
+  },
+  {
+    "ticker": "WJP.SI",
+    "sgxCode": "WJP",
+    "name": "VICOM Ltd",
+    "sector": "Consumer Cyclical",
+    "mktCapSgdM": 634.677
+  },
+  {
+    "ticker": "C41.SI",
+    "sgxCode": "C41",
+    "name": "Cortina",
+    "sector": "Consumer Cyclical",
+    "mktCapSgdM": 620.919
+  },
+  {
+    "ticker": "E3B.SI",
+    "sgxCode": "E3B",
+    "name": "Wee Hur",
+    "sector": "Industrials",
+    "mktCapSgdM": 606.702
+  },
+  {
+    "ticker": "M1GU.SI",
+    "sgxCode": "M1GU",
+    "name": "Alpha Integrated REIT",
+    "sector": "Real Estate",
+    "mktCapSgdM": 579.403
+  },
+  {
+    "ticker": "Q01.SI",
+    "sgxCode": "Q01",
+    "name": "QAF",
+    "sector": "Consumer Defensive",
+    "mktCapSgdM": 566.639
+  },
+  {
+    "ticker": "O10.SI",
+    "sgxCode": "O10",
+    "name": "Far East Orchard",
+    "sector": "Real Estate",
+    "mktCapSgdM": 546.099
+  },
+  {
+    "ticker": "A31.SI",
+    "sgxCode": "A31",
+    "name": "Addvalue Tech",
+    "sector": "Technology",
+    "mktCapSgdM": 530.406
+  },
+  {
+    "ticker": "H18.SI",
+    "sgxCode": "H18",
+    "name": "Hotel Grand",
+    "sector": "Consumer Cyclical",
+    "mktCapSgdM": 528.69
+  },
+  {
+    "ticker": "P34.SI",
+    "sgxCode": "P34",
+    "name": "Delfi",
+    "sector": "Consumer Defensive",
+    "mktCapSgdM": 528.651
+  },
+  {
+    "ticker": "U13.SI",
+    "sgxCode": "U13",
+    "name": "UOI",
+    "sector": "Financial Services",
+    "mktCapSgdM": 527.156
+  },
+  {
+    "ticker": "NPW.SI",
+    "sgxCode": "NPW",
+    "name": "MSC",
+    "sector": "Basic Materials",
+    "mktCapSgdM": 514.549
+  },
+  {
+    "ticker": "S56.SI",
+    "sgxCode": "S56",
+    "name": "SamuderaShipping",
+    "sector": "Industrials",
+    "mktCapSgdM": 513.826
+  },
+  {
+    "ticker": "QC7.SI",
+    "sgxCode": "QC7",
+    "name": "Q&M Dental",
+    "sector": "Healthcare",
+    "mktCapSgdM": 511.758
+  },
+  {
+    "ticker": "5LY.SI",
+    "sgxCode": "5LY",
+    "name": "MarcoPolo Marine",
+    "sector": "Industrials",
+    "mktCapSgdM": 504.925
+  },
+  {
+    "ticker": "F83.SI",
+    "sgxCode": "F83",
+    "name": "COSCO SHP SG",
+    "sector": "Industrials",
+    "mktCapSgdM": 501.591
+  },
+  {
+    "ticker": "B58.SI",
+    "sgxCode": "B58",
+    "name": "Banyan Tree",
+    "sector": "Consumer Cyclical",
+    "mktCapSgdM": 494.558
+  },
+  {
+    "ticker": "1D0.SI",
+    "sgxCode": "1D0",
+    "name": "Kimly",
+    "sector": "Consumer Cyclical",
+    "mktCapSgdM": 491.732
+  },
+  {
+    "ticker": "5JS.SI",
+    "sgxCode": "5JS",
+    "name": "Indofood Agri",
+    "sector": "Consumer Defensive",
+    "mktCapSgdM": 488.567
+  },
+  {
+    "ticker": "TSH.SI",
+    "sgxCode": "TSH",
+    "name": "TSH Resources",
+    "sector": "Consumer Defensive",
+    "mktCapSgdM": 486.546
+  },
+  {
+    "ticker": "5TP.SI",
+    "sgxCode": "5TP",
+    "name": "CNMC Goldmine",
+    "sector": "Basic Materials",
+    "mktCapSgdM": 486.347
+  },
+  {
+    "ticker": "AW9U.SI",
+    "sgxCode": "AW9U",
+    "name": "First Reit",
+    "sector": "Real Estate",
+    "mktCapSgdM": 476.828
+  },
+  {
+    "ticker": "STC.SI",
+    "sgxCode": "STC",
+    "name": "Comba",
+    "sector": "Technology",
+    "mktCapSgdM": 472.284
+  },
+  {
+    "ticker": "SEG.SI",
+    "sgxCode": "SEG",
+    "name": "CONCORD NE",
+    "sector": "Utilities",
+    "mktCapSgdM": 451.047
+  },
+  {
+    "ticker": "1MZ.SI",
+    "sgxCode": "1MZ",
+    "name": "NamCheong",
+    "sector": "Industrials",
+    "mktCapSgdM": 449.243
+  },
+  {
+    "ticker": "BN2.SI",
+    "sgxCode": "BN2",
+    "name": "Valuetronics",
+    "sector": "Technology",
+    "mktCapSgdM": 442.003
+  },
+  {
+    "ticker": "BHK.SI",
+    "sgxCode": "BHK",
+    "name": "SIIC Environment",
+    "sector": "Utilities",
+    "mktCapSgdM": 432.712
+  },
+  {
+    "ticker": "ZQM.SI",
+    "sgxCode": "ZQM",
+    "name": "SoilbuildConstr",
+    "sector": "Industrials",
+    "mktCapSgdM": 430.212
+  },
+  {
+    "ticker": "MV4.SI",
+    "sgxCode": "MV4",
+    "name": "Mewah Intl",
+    "sector": "Consumer Defensive",
+    "mktCapSgdM": 420.187
+  },
+  {
+    "ticker": "42C.SI",
+    "sgxCode": "42C",
+    "name": "IX Biopharma",
+    "sector": "Healthcare",
+    "mktCapSgdM": 419.066
+  },
+  {
+    "ticker": "5GD.SI",
+    "sgxCode": "5GD",
+    "name": "Sunpower",
+    "sector": "Utilities",
+    "mktCapSgdM": 418.941
+  },
+  {
+    "ticker": "5CF.SI",
+    "sgxCode": "5CF",
+    "name": "OKP",
+    "sector": "Industrials",
+    "mktCapSgdM": 413.631
+  },
+  {
+    "ticker": "ZKX.SI",
+    "sgxCode": "ZKX",
+    "name": "Ever Glory",
+    "sector": "Industrials",
+    "mktCapSgdM": 403.528
+  },
+  {
+    "ticker": "HLS.SI",
+    "sgxCode": "HLS",
+    "name": "Helens",
+    "sector": "Consumer Cyclical",
+    "mktCapSgdM": 403.105
+  },
+  {
+    "ticker": "BDX.SI",
+    "sgxCode": "BDX",
+    "name": "GSH",
+    "sector": "Industrials",
+    "mktCapSgdM": 394.56
+  },
+  {
+    "ticker": "5HV.SI",
+    "sgxCode": "5HV",
+    "name": "Koh Eco",
+    "sector": "Industrials",
+    "mktCapSgdM": 388.914
+  },
+  {
+    "ticker": "T24.SI",
+    "sgxCode": "T24",
+    "name": "Tuan Sing",
+    "sector": "Real Estate",
+    "mktCapSgdM": 387.228
+  },
+  {
+    "ticker": "M01.SI",
+    "sgxCode": "M01",
+    "name": "Metro",
+    "sector": "Consumer Cyclical",
+    "mktCapSgdM": 385.037
+  },
+  {
+    "ticker": "5DD.SI",
+    "sgxCode": "5DD",
+    "name": "Micro-Mechanics",
+    "sector": "Technology",
+    "mktCapSgdM": 383.038
+  },
+  {
+    "ticker": "B28.SI",
+    "sgxCode": "B28",
+    "name": "Bonvests",
+    "sector": "Consumer Cyclical",
+    "mktCapSgdM": 381.441
+  },
+  {
+    "ticker": "S35.SI",
+    "sgxCode": "S35",
+    "name": "Sing Inv & Fin",
+    "sector": "Financial Services",
+    "mktCapSgdM": 378.302
+  },
+  {
+    "ticker": "S3N.SI",
+    "sgxCode": "S3N",
+    "name": "GRC",
+    "sector": "Real Estate",
+    "mktCapSgdM": 375.83
+  },
+  {
+    "ticker": "Y03.SI",
+    "sgxCode": "Y03",
+    "name": "Yeo Hiap Seng",
+    "sector": "Consumer Defensive",
+    "mktCapSgdM": 358.846
+  },
+  {
+    "ticker": "KUO.SI",
+    "sgxCode": "KUO",
+    "name": "Intl Cement",
+    "sector": "Basic Materials",
+    "mktCapSgdM": 355.553
+  },
+  {
+    "ticker": "DHLU.SI",
+    "sgxCode": "DHLU",
+    "name": "Daiwa Hse Log Tr",
+    "sector": "Real Estate",
+    "mktCapSgdM": 340.063
+  },
+  {
+    "ticker": "A04.SI",
+    "sgxCode": "A04",
+    "name": "ASL Marine",
+    "sector": "Industrials",
+    "mktCapSgdM": 339.581
+  },
+  {
+    "ticker": "JCO.SI",
+    "sgxCode": "JCO",
+    "name": "JustCo",
+    "sector": "Real Estate",
+    "mktCapSgdM": 332.68
+  },
+  {
+    "ticker": "N02.SI",
+    "sgxCode": "N02",
+    "name": "NSL",
+    "sector": "Basic Materials",
+    "mktCapSgdM": 332.467
+  },
+  {
+    "ticker": "BTM.SI",
+    "sgxCode": "BTM",
+    "name": "Penguin Intl",
+    "sector": "Industrials",
+    "mktCapSgdM": 330.255
+  },
+  {
+    "ticker": "AWZ.SI",
+    "sgxCode": "AWZ",
+    "name": "Multi-Chem",
+    "sector": "Technology",
+    "mktCapSgdM": 328.848
+  },
+  {
+    "ticker": "A30.SI",
+    "sgxCode": "A30",
+    "name": "Aspial Corp",
+    "sector": "Consumer Cyclical",
+    "mktCapSgdM": 325.684
+  },
+  {
+    "ticker": "5IG.SI",
+    "sgxCode": "5IG",
+    "name": "Gallant Venture",
+    "sector": "Utilities",
+    "mktCapSgdM": 322.326
+  },
+  {
+    "ticker": "5UX.SI",
+    "sgxCode": "5UX",
+    "name": "Oxley",
+    "sector": "Real Estate",
+    "mktCapSgdM": 320.053
+  },
+  {
+    "ticker": "BTE.SI",
+    "sgxCode": "BTE",
+    "name": "Bund Center",
+    "sector": "Real Estate",
+    "mktCapSgdM": 314.889
+  },
+  {
+    "ticker": "BBW.SI",
+    "sgxCode": "BBW",
+    "name": "Azeus",
+    "sector": "Technology",
+    "mktCapSgdM": 306.3
+  },
+  {
+    "ticker": "5JK.SI",
+    "sgxCode": "5JK",
+    "name": "Hiap Hoe",
+    "sector": "Consumer Cyclical",
+    "mktCapSgdM": 305.862
+  }
+]

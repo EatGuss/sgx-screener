@@ -1,0 +1,223 @@
+@import "tailwindcss";
+@import "tw-animate-css";
+@import "shadcn/tailwind.css";
+@import "@fontsource-variable/inter";
+
+@custom-variant dark (&:is(.dark *));
+
+@theme inline {
+  --font-heading: var(--font-sans);
+  --font-sans: "Inter Variable", sans-serif;
+  --color-sidebar-ring: var(--sidebar-ring);
+  --color-sidebar-border: var(--sidebar-border);
+  --color-sidebar-accent-foreground: var(--sidebar-accent-foreground);
+  --color-sidebar-accent: var(--sidebar-accent);
+  --color-sidebar-primary-foreground: var(--sidebar-primary-foreground);
+  --color-sidebar-primary: var(--sidebar-primary);
+  --color-sidebar-foreground: var(--sidebar-foreground);
+  --color-sidebar: var(--sidebar);
+  --color-chart-5: var(--chart-5);
+  --color-chart-4: var(--chart-4);
+  --color-chart-3: var(--chart-3);
+  --color-chart-2: var(--chart-2);
+  --color-chart-1: var(--chart-1);
+  --color-ring: var(--ring);
+  --color-input: var(--input);
+  --color-border: var(--border);
+  --color-destructive: var(--destructive);
+  --color-accent-foreground: var(--accent-foreground);
+  --color-accent: var(--accent);
+  --color-up: var(--up);
+  --color-down: var(--down);
+  --color-muted-foreground: var(--muted-foreground);
+  --color-muted: var(--muted);
+  --color-secondary-foreground: var(--secondary-foreground);
+  --color-secondary: var(--secondary);
+  --color-primary-foreground: var(--primary-foreground);
+  --color-primary: var(--primary);
+  --color-popover-foreground: var(--popover-foreground);
+  --color-popover: var(--popover);
+  --color-card-foreground: var(--card-foreground);
+  --color-card: var(--card);
+  --color-foreground: var(--foreground);
+  --color-background: var(--background);
+  --radius-sm: calc(var(--radius) * 0.6);
+  --radius-md: calc(var(--radius) * 0.8);
+  --radius-lg: var(--radius);
+  --radius-xl: calc(var(--radius) * 1.4);
+  --radius-2xl: calc(var(--radius) * 1.8);
+  --radius-3xl: calc(var(--radius) * 2.2);
+  --radius-4xl: calc(var(--radius) * 2.6);
+}
+
+:root {
+  --background: #ffffff;
+  --foreground: #131722;
+  --card: #ffffff;
+  --card-foreground: #131722;
+  --popover: #ffffff;
+  --popover-foreground: #131722;
+  --primary: #2962ff;
+  --primary-foreground: #ffffff;
+  --secondary: #f0f3fa;
+  --secondary-foreground: #131722;
+  --muted: #f0f3fa;
+  --muted-foreground: #5d606b;
+  --accent: #e8ecf6;
+  --accent-foreground: #131722;
+  --destructive: #e03131;
+  --up: #089981;
+  --down: #f23645;
+  --border: #d1d4dc;
+  --input: #d1d4dc;
+  --ring: #2962ff;
+  --chart-1: #2962ff;
+  --chart-2: #089981;
+  --chart-3: #f23645;
+  --chart-4: #ff9800;
+  --chart-5: #787b86;
+  --radius: 0.375rem;
+  --sidebar: #131722;
+  --sidebar-foreground: #d1d4dc;
+  --sidebar-primary: #2962ff;
+  --sidebar-primary-foreground: #ffffff;
+  --sidebar-accent: #242b3d;
+  --sidebar-accent-foreground: #d1d4dc;
+  --sidebar-border: #2a2e39;
+  --sidebar-ring: #2962ff;
+}
+
+.dark {
+  --background: #131722;
+  --foreground: #d1d4dc;
+  --card: #1e222d;
+  --card-foreground: #d1d4dc;
+  --popover: #1e222d;
+  --popover-foreground: #d1d4dc;
+  --primary: #2962ff;
+  --primary-foreground: #ffffff;
+  --secondary: #242b3d;
+  --secondary-foreground: #d1d4dc;
+  --muted: #242b3d;
+  --muted-foreground: #787b86;
+  --accent: #242b3d;
+  --accent-foreground: #d1d4dc;
+  --destructive: #f23645;
+  --up: #26a69a;
+  --down: #ff5252;
+  --border: #2a2e39;
+  --input: #2a2e39;
+  --ring: #2962ff;
+  --chart-1: #2962ff;
+  --chart-2: #26a69a;
+  --chart-3: #f75359;
+  --chart-4: #ff9800;
+  --chart-5: #787b86;
+  --sidebar: #131722;
+  --sidebar-foreground: #d1d4dc;
+  --sidebar-primary: #2962ff;
+  --sidebar-primary-foreground: #ffffff;
+  --sidebar-accent: #242b3d;
+  --sidebar-accent-foreground: #d1d4dc;
+  --sidebar-border: #2a2e39;
+  --sidebar-ring: #2962ff;
+}
+
+@layer base {
+  html {
+    font-size: 14px;
+    @apply font-sans;
+  }
+  @media (max-width: 640px) {
+    html {
+      font-size: 13px;
+    }
+  }
+  * {
+    @apply border-border outline-ring/50;
+  }
+  body {
+    @apply bg-background text-foreground antialiased;
+  }
+  /* tabular figures keep financial columns aligned the way TradingView renders quotes */
+  .tabular {
+    font-variant-numeric: tabular-nums;
+  }
+  table,
+  .tabular,
+  [class*="font-mono"] {
+    font-variant-numeric: tabular-nums;
+  }
+}
+
+/* NL editor (Tiptap) — Stage 1 @-mention chips */
+.ProseMirror {
+  white-space: pre-wrap;
+  word-wrap: break-word;
+}
+.ProseMirror p {
+  margin: 0;
+}
+.ProseMirror .nl-mention {
+  display: inline-flex;
+  align-items: center;
+  border-radius: calc(var(--radius) * 0.8);
+  background: var(--accent);
+  color: var(--accent-foreground);
+  padding: 0.05rem 0.35rem;
+  font-family: ui-monospace, SFMono-Regular, Menlo, Monaco, Consolas, monospace;
+  font-size: 0.75rem;
+  font-weight: 500;
+  letter-spacing: -0.01em;
+  white-space: nowrap;
+}
+
+/* Active @-query (mid-mention, before chip insert) — same tint as chip */
+.ProseMirror .nl-mention-active {
+  border-radius: calc(var(--radius) * 0.8);
+  background: var(--accent);
+  color: var(--accent-foreground);
+  padding: 0.05rem 0.35rem;
+  font-family: ui-monospace, SFMono-Regular, Menlo, Monaco, Consolas, monospace;
+  font-size: 0.75rem;
+  font-weight: 500;
+  letter-spacing: -0.01em;
+  white-space: nowrap;
+}
+
+/*
+ * Thin app scrollbar — muted track/thumb, brightens on hover.
+ * Used by NL proposal panels and other restrained overflow regions.
+ */
+.scrollbar-app {
+  scrollbar-width: thin;
+  scrollbar-color: var(--border) transparent;
+}
+.scrollbar-app::-webkit-scrollbar {
+  width: 6px;
+  height: 6px;
+}
+.scrollbar-app::-webkit-scrollbar-track {
+  background: transparent;
+}
+.scrollbar-app::-webkit-scrollbar-thumb {
+  background-color: var(--border);
+  border-radius: 999px;
+}
+.scrollbar-app::-webkit-scrollbar-thumb:hover {
+  background-color: var(--muted-foreground);
+}
+
+/* Tippy wraps the mention suggestion list — flatten its chrome */
+.tippy-box {
+  background: transparent;
+  color: inherit;
+  border: none;
+  box-shadow: none;
+}
+.tippy-content {
+  padding: 0;
+}
+.tippy-arrow {
+  display: none;
+}

@@ -1,0 +1,14 @@
+node_modules/
+dist/
+coverage/
+.vite/
+*.log
+.DS_Store
+
+# Local environment — never commit
+.env
+.env.*
+!.env.example
+
+# Yahoo response cache written by ingest
+backend/.cache/

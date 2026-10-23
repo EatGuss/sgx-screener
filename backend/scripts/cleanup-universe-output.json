@@ -1,0 +1,475 @@
+{
+  "sti30": [
+    {
+      "ticker": "5E2.SI",
+      "name": "Seatrium Ltd",
+      "board": "Mainboard",
+      "sector": "Industrials",
+      "industry": "Marine Shipping"
+    },
+    {
+      "ticker": "9CI.SI",
+      "name": "CapitaLand Investment Limited",
+      "board": "Mainboard",
+      "sector": "Real Estate",
+      "industry": "Real Estate Services"
+    },
+    {
+      "ticker": "A17U.SI",
+      "name": "CapitaLand Ascendas REIT",
+      "board": "Mainboard",
+      "sector": "Real Estate",
+      "industry": "REIT - Industrial"
+    },
+    {
+      "ticker": "BN4.SI",
+      "name": "Keppel Ltd.",
+      "board": "Mainboard",
+      "sector": "Industrials",
+      "industry": "Conglomerates"
+    },
+    {
+      "ticker": "BUOU.SI",
+      "name": "Frasers Logistics & Commercial Trust",
+      "board": "Mainboard",
+      "sector": "Real Estate",
+      "industry": "REIT - Industrial"
+    },
+    {
+      "ticker": "C07.SI",
+      "name": "Jardine Cycle & Carriage Limited",
+      "board": "Mainboard",
+      "sector": "Consumer Cyclical",
+      "industry": "Auto Manufacturers"
+    },
+    {
+      "ticker": "C09.SI",
+      "name": "City Developments Limited",
+      "board": "Mainboard",
+      "sector": "Real Estate",
+      "industry": "Real Estate Development"
+    },
+    {
+      "ticker": "C38U.SI",
+      "name": "CapitaLand Integrated Commercial Trust",
+      "board": "Mainboard",
+      "sector": "Real Estate",
+      "industry": "REIT - Diversified"
+    },
+    {
+      "ticker": "C52.SI",
+      "name": "ComfortDelGro Corporation Limited",
+      "board": "Mainboard",
+      "sector": "Industrials",
+      "industry": "Railroads"
+    },
+    {
+      "ticker": "C6L.SI",
+      "name": "Singapore Airlines Limited",
+      "board": "Mainboard",
+      "sector": "Industrials",
+      "industry": "Airlines"
+    },
+    {
+      "ticker": "D05.SI",
+      "name": "DBS Group Holdings Ltd",
+      "board": "Mainboard",
+      "sector": "Financial Services",
+      "industry": "Banks"
+    },
+    {
+      "ticker": "F34.SI",
+      "name": "Wilmar International Limited",
+      "board": "Mainboard",
+      "sector": "Consumer Defensive",
+      "industry": "Farm Products"
+    },
+    {
+      "ticker": "F99.SI",
+      "name": "Fraser and Neave, Limited",
+      "board": "Mainboard",
+      "sector": "Consumer Defensive",
+      "industry": "Beverages - Non-Alcoholic"
+    },
+    {
+      "ticker": "G13.SI",
+      "name": "Genting Singapore Limited",
+      "board": "Mainboard",
+      "sector": "Consumer Cyclical",
+      "industry": "Resorts & Casinos"
+    },
+    {
+      "ticker": "M44U.SI",
+      "name": "Mapletree Logistics Trust",
+      "board": "Mainboard",
+      "sector": "Real Estate",
+      "industry": "REIT - Industrial"
+    },
+    {
+      "ticker": "ME8U.SI",
+      "name": "Mapletree Industrial Trust",
+      "board": "Mainboard",
+      "sector": "Real Estate",
+      "industry": "REIT - Industrial"
+    },
+    {
+      "ticker": "N2IU.SI",
+      "name": "Mapletree Pan Asia Commercial Trust",
+      "board": "Mainboard",
+      "sector": "Real Estate",
+      "industry": "REIT - Retail"
+    },
+    {
+      "ticker": "O39.SI",
+      "name": "Oversea-Chinese Banking Corporation Limited",
+      "board": "Mainboard",
+      "sector": "Financial Services",
+      "industry": "Banks"
+    },
+    {
+      "ticker": "S58.SI",
+      "name": "SATS Ltd.",
+      "board": "Mainboard",
+      "sector": "Industrials",
+      "industry": "Airport Services"
+    },
+    {
+      "ticker": "S61.SI",
+      "name": "SBS Transit Ltd",
+      "board": "Mainboard",
+      "sector": "Industrials",
+      "industry": "Railroads"
+    },
+    {
+      "ticker": "S63.SI",
+      "name": "Singapore Technologies Engineering Ltd",
+      "board": "Mainboard",
+      "sector": "Industrials",
+      "industry": "Aerospace & Defense"
+    },
+    {
+      "ticker": "S68.SI",
+      "name": "Singapore Exchange Limited",
+      "board": "Mainboard",
+      "sector": "Financial Services",
+      "industry": "Financial Exchanges"
+    },
+    {
+      "ticker": "U11.SI",
+      "name": "United Overseas Bank Limited",
+      "board": "Mainboard",
+      "sector": "Financial Services",
+      "industry": "Banks"
+    },
+    {
+      "ticker": "U14.SI",
+      "name": "UOL Group Limited",
+      "board": "Mainboard",
+      "sector": "Real Estate",
+      "industry": "Real Estate Development"
+    },
+    {
+      "ticker": "U96.SI",
+      "name": "Sembcorp Industries Ltd",
+      "board": "Mainboard",
+      "sector": "Utilities",
+      "industry": "Multi-Utilities"
+    },
+    {
+      "ticker": "V03.SI",
+      "name": "Venture Corporation Limited",
+      "board": "Mainboard",
+      "sector": "Technology",
+      "industry": "Electronic Components"
+    },
+    {
+      "ticker": "Y92.SI",
+      "name": "Thai Beverage Public Company Limited",
+      "board": "Mainboard",
+      "sector": "Consumer Defensive",
+      "industry": "Beverages - Brewers"
+    },
+    {
+      "ticker": "Z74.SI",
+      "name": "Singapore Telecommunications Limited",
+      "board": "Mainboard",
+      "sector": "Communication Services",
+      "industry": "Telecom"
+    }
+  ],
+  "sReits": [
+    {
+      "ticker": "A7RU.SI",
+      "name": "Keppel Infrastructure Trust",
+      "board": "Mainboard",
+      "sector": "Utilities",
+      "industry": "Infrastructure"
+    },
+    {
+      "ticker": "AJBU.SI",
+      "name": "Keppel DC REIT",
+      "board": "Mainboard",
+      "sector": "Real Estate",
+      "industry": "REIT - Office"
+    },
+    {
+      "ticker": "AW9U.SI",
+      "name": "First Real Estate Investment Trust",
+      "board": "Mainboard",
+      "sector": "Real Estate",
+      "industry": "REIT - Healthcare"
+    },
+    {
+      "ticker": "C2PU.SI",
+      "name": "Parkway Life Real Estate Investment Trust",
+      "board": "Mainboard",
+      "sector": "Real Estate",
+      "industry": "REIT - Healthcare"
+    },
+    {
+      "ticker": "CJLU.SI",
+      "name": "NetLink NBN Trust",
+      "board": "Mainboard",
+      "sector": "Communication Services",
+      "industry": "Telecom Infrastructure"
+    },
+    {
+      "ticker": "CRPU.SI",
+      "name": "Sasseur Real Estate Investment Trust",
+      "board": "Catalist",
+      "sector": "Real Estate",
+      "industry": "REIT - Retail"
+    },
+    {
+      "ticker": "J69U.SI",
+      "name": "Frasers Centrepoint Trust",
+      "board": "Mainboard",
+      "sector": "Real Estate",
+      "industry": "REIT - Retail"
+    },
+    {
+      "ticker": "J85.SI",
+      "name": "CDL Hospitality Trusts",
+      "board": "Mainboard",
+      "sector": "Real Estate",
+      "industry": "REIT - Hotel & Motel"
+    },
+    {
+      "ticker": "JYEU.SI",
+      "name": "Lendlease Global Commercial REIT",
+      "board": "Mainboard",
+      "sector": "Real Estate",
+      "industry": "REIT - Retail"
+    },
+    {
+      "ticker": "K71U.SI",
+      "name": "Keppel REIT",
+      "board": "Mainboard",
+      "sector": "Real Estate",
+      "industry": "REIT - Specialty"
+    },
+    {
+      "ticker": "P7VU.SI",
+      "name": "Hutchison Port Holdings Trust",
+      "board": "Mainboard",
+      "sector": "Industrials",
+      "industry": "Marine Shipping"
+    },
+    {
+      "ticker": "Q5T.SI",
+      "name": "Far East Hospitality Trust",
+      "board": "Mainboard",
+      "sector": "Real Estate",
+      "industry": "REIT - Hotel & Motel"
+    },
+    {
+      "ticker": "T82U.SI",
+      "name": "Suntec Real Estate Investment Trust",
+      "board": "Mainboard",
+      "sector": "Real Estate",
+      "industry": "REIT - Office"
+    },
+    {
+      "ticker": "UD1U.SI",
+      "name": "IREIT Global",
+      "board": "Mainboard",
+      "sector": "Real Estate",
+      "industry": "REIT - Diversified"
+    }
+  ],
+  "liquidExtras": [
+    {
+      "ticker": "BS6.SI",
+      "name": "Yangzijiang Shipbuilding (Holdings) Ltd.",
+      "board": "Mainboard",
+      "sector": "Industrials",
+      "industry": "Marine Shipping"
+    },
+    {
+      "ticker": "BSL.SI",
+      "name": "Raffles Medical Group Ltd",
+      "board": "Mainboard",
+      "sector": "Healthcare",
+      "industry": "Medical Care Facilities"
+    },
+    {
+      "ticker": "CC3.SI",
+      "name": "StarHub Ltd",
+      "board": "Mainboard",
+      "sector": "Communication Services",
+      "industry": "Telecom"
+    },
+    {
+      "ticker": "E5H.SI",
+      "name": "Golden Agri-Resources Ltd",
+      "board": "Mainboard",
+      "sector": "Consumer Defensive",
+      "industry": "Farm Products"
+    },
+    {
+      "ticker": "G92.SI",
+      "name": "China Aviation Oil (Singapore) Corporation Ltd",
+      "board": "Mainboard",
+      "sector": "Energy",
+      "industry": "Oil & Gas Refining & Marketing"
+    },
+    {
+      "ticker": "H02.SI",
+      "name": "Haw Par Corporation Limited",
+      "board": "Mainboard",
+      "sector": "Healthcare",
+      "industry": "Drug Manufacturers"
+    },
+    {
+      "ticker": "H18.SI",
+      "name": "Hotel Grand Central Limited",
+      "board": "Mainboard",
+      "sector": "Consumer Cyclical",
+      "industry": "Lodging"
+    },
+    {
+      "ticker": "P52.SI",
+      "name": "Pan-United Corporation Ltd",
+      "board": "Mainboard",
+      "sector": "Basic Materials",
+      "industry": "Building Materials"
+    },
+    {
+      "ticker": "S08.SI",
+      "name": "Singapore Post Limited",
+      "board": "Mainboard",
+      "sector": "Industrials",
+      "industry": "Integrated Freight & Logistics"
+    },
+    {
+      "ticker": "S19.SI",
+      "name": "Singapore Shipping Corporation Limited",
+      "board": "Mainboard",
+      "sector": "Industrials",
+      "industry": "Marine Shipping"
+    },
+    {
+      "ticker": "S41.SI",
+      "name": "Hong Leong Finance Limited",
+      "board": "Mainboard",
+      "sector": "Financial Services",
+      "industry": "Credit Services"
+    },
+    {
+      "ticker": "S59.SI",
+      "name": "SIA Engineering Company Limited",
+      "board": "Mainboard",
+      "sector": "Industrials",
+      "industry": "Airport Services"
+    },
+    {
+      "ticker": "S71.SI",
+      "name": "Sunright Limited",
+      "board": "Mainboard",
+      "sector": "Technology",
+      "industry": "Semiconductors"
+    },
+    {
+      "ticker": "TS0U.SI",
+      "name": "OUE Real Estate Investment Trust",
+      "board": "Mainboard",
+      "sector": "Real Estate",
+      "industry": "Real Estate Development"
+    },
+    {
+      "ticker": "U06.SI",
+      "name": "Singapore Land Group Limited",
+      "board": "Mainboard",
+      "sector": "Real Estate",
+      "industry": "Real Estate Development"
+    }
+  ],
+  "drops": [
+    {
+      "intendedName": "Hongkong Land Holdings Ltd",
+      "oldTicker": "H78.SI",
+      "reason": "currency=USD → no SGX .SI symbol in Yahoo search results validated as SGD EQUITY"
+    },
+    {
+      "intendedName": "SPH Media Trust",
+      "oldTicker": "T39.SI",
+      "reason": "Quote not found for symbol: T39.SI; missing longName → no SGX .SI symbol in Yahoo search results validated as SGD EQUITY"
+    },
+    {
+      "intendedName": "Cromwell European REIT",
+      "oldTicker": "CMOU.SI",
+      "reason": "currency=USD; name mismatch (wrong ticker mapping) → no SGX .SI symbol in Yahoo search results validated as SGD EQUITY"
+    },
+    {
+      "intendedName": "Digital Core REIT",
+      "oldTicker": "DCRU.SI",
+      "reason": "currency=USD → no SGX .SI symbol in Yahoo search results validated as SGD EQUITY"
+    },
+    {
+      "intendedName": "Frasers Hospitality Trust",
+      "oldTicker": "ACV.SI",
+      "reason": "Quote not found for symbol: ACV.SI; missing longName → no SGX .SI symbol in Yahoo search results validated as SGD EQUITY"
+    },
+    {
+      "intendedName": "Lippo Malls Indonesia Retail Trust",
+      "oldTicker": "O5RU.SI",
+      "reason": "name mismatch (wrong ticker mapping) → no SGX .SI symbol in Yahoo search results validated as SGD EQUITY"
+    },
+    {
+      "intendedName": "Ascendas India Trust",
+      "oldTicker": "CY6U.SI",
+      "reason": "name mismatch (wrong ticker mapping) → no SGX .SI symbol in Yahoo search results validated as SGD EQUITY"
+    },
+    {
+      "intendedName": "Elite Commercial REIT",
+      "oldTicker": "MXNU.SI",
+      "reason": "currency=GBP; name mismatch (wrong ticker mapping) → no SGX .SI symbol in Yahoo search results validated as SGD EQUITY"
+    },
+    {
+      "intendedName": "Sabana Industrial REIT",
+      "oldTicker": "5E2.SI",
+      "reason": "name mismatch (wrong ticker mapping) → no SGX .SI symbol in Yahoo search results validated as SGD EQUITY"
+    },
+    {
+      "intendedName": "United Industrial Corporation Ltd",
+      "oldTicker": "U06.SI",
+      "reason": "name mismatch (wrong ticker mapping) → no SGX .SI symbol in Yahoo search results validated as SGD EQUITY"
+    },
+    {
+      "intendedName": "Wheelock Properties (Singapore) Ltd",
+      "oldTicker": "W05.SI",
+      "reason": "name mismatch (wrong ticker mapping) → no SGX .SI symbol in Yahoo search results validated as SGD EQUITY"
+    },
+    {
+      "intendedName": "Mandarin Oriental International Ltd",
+      "oldTicker": "M04.SI",
+      "reason": "Quote not found for symbol: M04.SI; missing longName → no SGX .SI symbol in Yahoo search results validated as SGD EQUITY"
+    },
+    {
+      "intendedName": "Millennium & Copthorne Hotels Ltd",
+      "oldTicker": "MCH.SI",
+      "reason": "Quote not found for symbol: MCH.SI; missing longName → no SGX .SI symbol in Yahoo search results validated as SGD EQUITY"
+    }
+  ],
+  "total": 57
+}

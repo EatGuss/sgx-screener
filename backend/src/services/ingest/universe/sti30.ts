@@ -1,0 +1,33 @@
+import type { UniverseSeedEntry } from "./types";
+
+/** Straits Times Index (STI) constituents — liquid Mainboard blue chips. */
+export const STI_30: UniverseSeedEntry[] = [
+  { ticker: "5E2.SI", name: "Seatrium Ltd", board: "Mainboard", sector: "Industrials", industry: "Marine Shipping" },
+  { ticker: "9CI.SI", name: "CapitaLand Investment Limited", board: "Mainboard", sector: "Real Estate", industry: "Real Estate Services" },
+  { ticker: "A17U.SI", name: "CapitaLand Ascendas REIT", board: "Mainboard", sector: "Real Estate", industry: "REIT - Industrial" },
+  { ticker: "BN4.SI", name: "Keppel Ltd.", board: "Mainboard", sector: "Industrials", industry: "Conglomerates" },
+  { ticker: "BUOU.SI", name: "Frasers Logistics & Commercial Trust", board: "Mainboard", sector: "Real Estate", industry: "REIT - Industrial" },
+  { ticker: "C07.SI", name: "Jardine Cycle & Carriage Limited", board: "Mainboard", sector: "Consumer Cyclical", industry: "Auto Manufacturers" },
+  { ticker: "C09.SI", name: "City Developments Limited", board: "Mainboard", sector: "Real Estate", industry: "Real Estate Development" },
+  { ticker: "C38U.SI", name: "CapitaLand Integrated Commercial Trust", board: "Mainboard", sector: "Real Estate", industry: "REIT - Diversified" },
+  { ticker: "C52.SI", name: "ComfortDelGro Corporation Limited", board: "Mainboard", sector: "Industrials", industry: "Railroads" },
+  { ticker: "C6L.SI", name: "Singapore Airlines Limited", board: "Mainboard", sector: "Industrials", industry: "Airlines" },
+  { ticker: "D05.SI", name: "DBS Group Holdings Ltd", board: "Mainboard", sector: "Financial Services", industry: "Banks" },
+  { ticker: "F34.SI", name: "Wilmar International Limited", board: "Mainboard", sector: "Consumer Defensive", industry: "Farm Products" },
+  { ticker: "F99.SI", name: "Fraser and Neave, Limited", board: "Mainboard", sector: "Consumer Defensive", industry: "Beverages - Non-Alcoholic" },
+  { ticker: "G13.SI", name: "Genting Singapore Limited", board: "Mainboard", sector: "Consumer Cyclical", industry: "Resorts & Casinos" },
+  { ticker: "M44U.SI", name: "Mapletree Logistics Trust", board: "Mainboard", sector: "Real Estate", industry: "REIT - Industrial" },
+  { ticker: "ME8U.SI", name: "Mapletree Industrial Trust", board: "Mainboard", sector: "Real Estate", industry: "REIT - Industrial" },
+  { ticker: "N2IU.SI", name: "Mapletree Pan Asia Commercial Trust", board: "Mainboard", sector: "Real Estate", industry: "REIT - Retail" },
+  { ticker: "O39.SI", name: "Oversea-Chinese Banking Corporation Limited", board: "Mainboard", sector: "Financial Services", industry: "Banks" },
+  { ticker: "S58.SI", name: "SATS Ltd.", board: "Mainboard", sector: "Industrials", industry: "Airport Services" },
+  { ticker: "S61.SI", name: "SBS Transit Ltd", board: "Mainboard", sector: "Industrials", industry: "Railroads" },
+  { ticker: "S63.SI", name: "Singapore Technologies Engineering Ltd", board: "Mainboard", sector: "Industrials", industry: "Aerospace & Defense" },
+  { ticker: "S68.SI", name: "Singapore Exchange Limited", board: "Mainboard", sector: "Financial Services", industry: "Financial Exchanges" },
+  { ticker: "U11.SI", name: "United Overseas Bank Limited", board: "Mainboard", sector: "Financial Services", industry: "Banks" },
+  { ticker: "U14.SI", name: "UOL Group Limited", board: "Mainboard", sector: "Real Estate", industry: "Real Estate Development" },
+  { ticker: "U96.SI", name: "Sembcorp Industries Ltd", board: "Mainboard", sector: "Utilities", industry: "Multi-Utilities" },
+  { ticker: "V03.SI", name: "Venture Corporation Limited", board: "Mainboard", sector: "Technology", industry: "Electronic Components" },
+  { ticker: "Y92.SI", name: "Thai Beverage Public Company Limited", board: "Mainboard", sector: "Consumer Defensive", industry: "Beverages - Brewers" },
+  { ticker: "Z74.SI", name: "Singapore Telecommunications Limited", board: "Mainboard", sector: "Communication Services", industry: "Telecom" },
+];

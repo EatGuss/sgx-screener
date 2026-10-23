@@ -1,0 +1,48 @@
+{
+  "name": "backend",
+  "version": "1.0.0",
+  "private": true,
+  "type": "commonjs",
+  "main": "src/index.ts",
+  "scripts": {
+    "dev": "tsx watch src/index.ts",
+    "start": "tsx src/index.ts",
+    "typecheck": "tsc --noEmit",
+    "test": "vitest run --project unit",
+    "test:integration": "vitest run --project integration",
+    "db:generate": "drizzle-kit generate",
+    "db:migrate": "drizzle-kit migrate",
+    "db:studio": "drizzle-kit studio",
+    "seed:universe": "tsx scripts/seed-universe.ts",
+    "seed:mini": "tsx scripts/seed-mini-universe.ts",
+    "validate:universe": "tsx scripts/validate-universe.ts",
+    "ingest:run": "tsx scripts/run-nightly-ingest.ts",
+    "ingest:market-cap": "tsx scripts/ingest-market-cap-slice.ts",
+    "nl:glossary": "tsx scripts/generate-nl-glossary.ts"
+  },
+  "dependencies": {
+    "argon2": "^0.44.0",
+    "cookie-parser": "^1.4.7",
+    "cors": "^2.8.6",
+    "dotenv": "^17.4.2",
+    "drizzle-orm": "^0.33.0",
+    "express": "^5.2.1",
+    "http-status-codes": "^2.3.0",
+    "jsonwebtoken": "^9.0.3",
+    "node-cron": "^4.5.0",
+    "pg": "^8.22.0",
+    "screener-contract": "*",
+    "tsx": "^4.23.0",
+    "yahoo-finance2": "^3.15.4",
+    "zod": "^3.25.76"
+  },
+  "devDependencies": {
+    "@types/cookie-parser": "^1.4.10",
+    "@types/cors": "^2.8.19",
+    "@types/express": "^5.0.6",
+    "@types/jsonwebtoken": "^9.0.10",
+    "@types/node-cron": "^3.0.11",
+    "@types/pg": "^8.20.0",
+    "drizzle-kit": "^0.24.2"
+  }
+}
