@@ -3,13 +3,13 @@
 A stock screener for Singapore Exchange (SGX) equities. Build a screen from filter pills, start from one of 12 curated presets, or describe what you want in plain English. The screener turns it into filters you can review and edit before anything runs.
 
 ![Screener builder: filter pills, column tabs and results table](docs/screenshots/builder.png)
-<!-- Screenshot placeholder: docs/screenshots/builder.png -->
 
 ![Natural-language screening: proposed filters awaiting review](docs/screenshots/nl-review.png)
-<!-- Screenshot placeholder: docs/screenshots/nl-review.png -->
 
-![Stock detail drawer with price chart](docs/screenshots/detail-drawer.png)
-<!-- Screenshot placeholder: docs/screenshots/detail-drawer.png -->
+<p>
+  <img src="docs/screenshots/detail-drawer1.png" alt="Stock detail drawer: price history and valuation/profitability metrics" width="49%">
+  <img src="docs/screenshots/detail-drawer2.png" alt="Stock detail drawer: growth, dividends, technicals and Find similar stocks" width="49%">
+</p>
 
 ## What it does
 
@@ -81,7 +81,7 @@ The trade-off is freshness: data is end-of-day, and the UI says so.
 
 ### The universe
 
-The screener covers SGD-denominated SGX equities and trusts with a market cap of at least about S$300M: 179 candidates, 174 validated against Yahoo Finance, and 172 active after the completeness guard. The S$300M floor comes from a coverage study of SGX's own securities list. Fundamentals coverage collapses below that size (see [docs/universe-coverage-study.md](docs/universe-coverage-study.md)). Screening thresholds in the NL glossary and the quick-filter bands are percentiles computed from live data (`npm run nl:glossary`), not hand-picked numbers.
+The screener covers SGD-denominated SGX equities and trusts with a market cap of at least about S$300M: 179 candidates, 174 validated against Yahoo Finance, and 173 with complete data after the latest ingest (the completeness guard deactivates any that come back without a market cap). The S$300M floor comes from a coverage study of SGX's own securities list. Fundamentals coverage collapses below that size (see [docs/universe-coverage-study.md](docs/universe-coverage-study.md)). Screening thresholds in the NL glossary and the quick-filter bands are percentiles computed from live data (`npm run nl:glossary`), not hand-picked numbers.
 
 ## Local setup
 
@@ -133,7 +133,7 @@ Every variable is documented in [`backend/.env.example`](backend/.env.example):
 
 | Where | Command | What it does |
 |---|---|---|
-| root | `npm test` | All unit tests (Vitest: 102 backend + 16 frontend) |
+| root | `npm test` | All unit tests (Vitest: 102 backend + 21 frontend) |
 | root | `npm run build` | Typecheck the API and build the web app |
 | `backend` | `npm run dev` | API with reload |
 | `backend` | `npm run test:integration` | Database-backed tests (needs a migrated, seeded, ingested DB) |
