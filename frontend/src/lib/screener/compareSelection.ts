@@ -1,9 +1,9 @@
-/** Screener → /compare selection limits (must match Compare.tsx). */
+/** Multi-select compare limits: between 2 and 5 stocks. */
 export const SCREENER_COMPARE_MIN = 2;
 export const SCREENER_COMPARE_MAX = 5;
 
 export interface CompareSelectionItem {
-  /** Bare SGX / MOD-D code (e.g. D05) — same dialect as PriceChart → /compare. */
+  /** Bare SGX code (e.g. D05) — see `toModdTicker`. */
   ticker: string;
   name: string;
 }

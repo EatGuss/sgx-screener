@@ -38,8 +38,8 @@ export interface ScreenerSettings {
   /** When true, entering /screener collapses the app sidebar. */
   autoCollapseSidebar: boolean;
   /**
-   * Preferred watchlist for "Add to watchlist" when the user has several.
-   * `null` → show the picker (or use the only list).
+   * Unused: left over from an earlier watchlist integration. Still parsed so
+   * settings saved by older versions load cleanly.
    */
   defaultWatchlistId: number | null;
   /** Persisted width of the desktop stock detail drawer (px). */
