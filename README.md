@@ -1,5 +1,7 @@
 # SGX Screener
 
+[![CI](https://github.com/EatGuss/sgx-screener/actions/workflows/ci.yml/badge.svg)](https://github.com/EatGuss/sgx-screener/actions/workflows/ci.yml)
+
 A stock screener for Singapore Exchange (SGX) equities. Build a screen from filter pills, start from one of 12 curated presets, or describe what you want in plain English. The screener turns it into filters you can review and edit before anything runs.
 
 ![Screener builder: filter pills, column tabs and results table](docs/screenshots/builder.png)
