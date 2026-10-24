@@ -37,7 +37,7 @@ app.use("/api/nl", nlRoutes);
 app.use("/api/screens", screensRoutes);
 
 async function start(): Promise<void> {
-  await initDrizzle();
+  await initDrizzle({ readPool: true });
 
   registerNightlyIngestJob();
   // Non-blocking: heals missed nightly runs without delaying listen().

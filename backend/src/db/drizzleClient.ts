@@ -29,9 +29,18 @@ const readPool = new Pool({
 export const db = drizzle(pool, { schema });
 export const readDb = drizzle(readPool, { schema });
 
-export async function initDrizzle(): Promise<void> {
+/**
+ * Fail fast on a bad connection string. Scripts (seed, ingest) only write, so
+ * they check the writer pool alone; the API also passes `readPool: true` so a
+ * misconfigured READONLY_DATABASE_URL surfaces at boot, not on the first query.
+ */
+export async function initDrizzle(
+  options: { readPool?: boolean } = {},
+): Promise<void> {
   await pool.query("SELECT 1");
-  await readPool.query("SELECT 1");
+  if (options.readPool) {
+    await readPool.query("SELECT 1");
+  }
 }
 
 export async function closeDrizzle(): Promise<void> {
