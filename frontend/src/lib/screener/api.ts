@@ -89,6 +89,32 @@ export function screenerRequestErrorMessage(err: unknown, fallback: string): str
   return fallback;
 }
 
+/**
+ * Turn a non-2xx response into a user-facing Error. The API's own `{ error }`
+ * message wins — e.g. NL endpoints answer 502/503 with the provider's reason
+ * ("Invalid API key", "OPENROUTER_MODEL is not set"). A 502–504 with no such
+ * body means the API itself is unreachable behind the proxy.
+ */
+async function responseError(response: Response): Promise<Error> {
+  if (response.status === 401) {
+    return new Error("Log in to save screens");
+  }
+  let serverMessage: string | undefined;
+  try {
+    const errBody = (await response.json()) as { error?: string };
+    serverMessage = errBody.error;
+  } catch {
+    // Non-JSON body (e.g. the dev proxy's own error page) — fall through.
+  }
+  if (serverMessage) {
+    return new Error(serverMessage);
+  }
+  if (response.status === 502 || response.status === 503 || response.status === 504) {
+    return new Error("Couldn't reach the server");
+  }
+  return new Error(`Request failed (${response.status})`);
+}
+
 async function getJson<T>(
   url: string,
   schema: { parse: (data: unknown) => T },
@@ -103,20 +129,7 @@ async function getJson<T>(
   }
 
   if (!response.ok) {
-    let message = `Request failed (${response.status})`;
-    try {
-      const errBody = (await response.json()) as { error?: string };
-      if (errBody.error) message = errBody.error;
-    } catch {
-      // ignore parse errors
-    }
-    if (response.status === 401) {
-      throw new Error("Log in to save screens");
-    }
-    if (response.status === 502 || response.status === 503 || response.status === 504) {
-      throw new Error("Couldn't reach the server");
-    }
-    throw new Error(message);
+    throw await responseError(response);
   }
 
   const data: unknown = await response.json();
@@ -144,20 +157,7 @@ async function postJson<T>(
   }
 
   if (!response.ok) {
-    let message = `Request failed (${response.status})`;
-    try {
-      const errBody = (await response.json()) as { error?: string };
-      if (errBody.error) message = errBody.error;
-    } catch {
-      // ignore parse errors
-    }
-    if (response.status === 401) {
-      throw new Error("Log in to save screens");
-    }
-    if (response.status === 502 || response.status === 503 || response.status === 504) {
-      throw new Error("Couldn't reach the server");
-    }
-    throw new Error(message);
+    throw await responseError(response);
   }
 
   const data: unknown = await response.json();
@@ -185,20 +185,7 @@ async function putJson<T>(
   }
 
   if (!response.ok) {
-    let message = `Request failed (${response.status})`;
-    try {
-      const errBody = (await response.json()) as { error?: string };
-      if (errBody.error) message = errBody.error;
-    } catch {
-      // ignore parse errors
-    }
-    if (response.status === 401) {
-      throw new Error("Log in to save screens");
-    }
-    if (response.status === 502 || response.status === 503 || response.status === 504) {
-      throw new Error("Couldn't reach the server");
-    }
-    throw new Error(message);
+    throw await responseError(response);
   }
 
   const data: unknown = await response.json();
@@ -222,17 +209,7 @@ async function deleteRequest(
   }
 
   if (!response.ok) {
-    let message = `Request failed (${response.status})`;
-    try {
-      const errBody = (await response.json()) as { error?: string };
-      if (errBody.error) message = errBody.error;
-    } catch {
-      // ignore
-    }
-    if (response.status === 401) {
-      throw new Error("Log in to save screens");
-    }
-    throw new Error(message);
+    throw await responseError(response);
   }
 }
 
